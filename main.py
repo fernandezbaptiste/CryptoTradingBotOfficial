@@ -4,6 +4,7 @@ from connectors.binance_futures import BinanceFuturesClient
 from connectors.bitmex import BitmexClient
 import pprint
 from interface.root_component import Root
+# hi
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
