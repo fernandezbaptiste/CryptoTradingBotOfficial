@@ -1,0 +1,3006 @@
+2022-04-21 21:52:16,919 INFO :: this message just shows basic information
+2022-04-21 21:52:16,919 WARNING :: This message is about something you should pay attention to
+2022-04-21 21:52:16,919 ERROR :: This message help to debug an error that occured in your program
+2022-04-21 21:56:30,341 INFO :: this message just shows basic information
+2022-04-21 21:56:30,342 WARNING :: This message is about something you should pay attention to
+2022-04-21 21:56:30,342 ERROR :: This message help to debug an error that occured in your program
+2022-04-21 21:56:30,342 INFO :: Hello from the Binance connector
+2022-04-21 22:03:43,557 INFO :: This is logged in all cases
+2022-04-22 12:30:17,464 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:30:55,895 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:32:59,177 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:33:32,921 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:35:30,650 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:39:47,949 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:40:28,820 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:41:26,211 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:42:21,452 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:42:40,117 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:46:18,896 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:47:31,752 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:47:54,359 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:50:17,283 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:50:47,252 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:50:56,993 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:51:53,986 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:56:14,798 INFO :: Binance Futures Client successfully initialized
+2022-04-22 12:59:25,300 INFO :: binance Futures Client succesfully initialized
+2022-04-22 12:59:50,313 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:00:22,814 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:00:51,548 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:01:54,005 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:02:19,502 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:02:45,504 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:06:22,696 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:07:06,939 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:14:08,746 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:14:25,968 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:15:11,079 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:18:24,646 INFO :: binance Futures Client succesfully initialized
+2022-04-22 13:18:25,133 ERROR :: Error while making GET request to /fapi/v1/klines: {'code': -1120, 'msg': 'Invalid interval.'} (error code 400)
+2022-04-22 13:18:35,003 INFO :: binance Futures Client succesfully initialized2022-04-23 13:58:31,458 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:23:17,176 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:23:35,769 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:24:53,368 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:25:44,877 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:30:29,367 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:31:08,168 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:43:14,763 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:43:22,902 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:43:47,167 INFO :: binance Futures Client succesfully initialized
+2022-04-23 14:59:43,322 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:00:09,599 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:02:44,701 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:04:14,110 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:04:59,263 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:05:28,314 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:14:36,937 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:14:41,622 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2022-04-23 15:15:21,596 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:15:25,409 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2022-04-23 15:15:57,938 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:16:01,368 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2022-04-23 15:16:36,204 INFO :: binance Futures Client succesfully initialized
+2022-04-23 15:16:39,793 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2022-04-23 16:28:40,907 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:38:21,676 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:38:22,790 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:38:22,790 INFO :: Binance Websocket connection closed
+2022-04-23 16:40:15,567 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:40:16,559 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:40:16,559 WARNING :: Binance Websocket connection closed
+2022-04-23 16:42:22,298 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:42:23,451 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:42:23,451 WARNING :: Binance Websocket connection closed
+2022-04-23 16:43:25,706 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:43:26,922 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:43:26,923 WARNING :: Binance Websocket connection closed
+2022-04-23 16:44:03,297 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:44:04,293 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:44:04,293 WARNING :: Binance Websocket connection closed
+2022-04-23 16:44:58,208 INFO :: binance Futures Client succesfully initialized
+2022-04-23 16:44:59,211 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:44:59,211 WARNING :: Binance Websocket connection closed
+2022-04-23 16:45:30,778 INFO :: Binance Futures Client successfully initialized
+2022-04-23 16:45:31,675 INFO :: Binance Connection Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:45:31,676 WARNING :: Binance Websocket connection closed
+2022-04-23 16:47:44,126 INFO :: Binance Futures Client successfully initialized
+2022-04-23 16:47:45,065 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:47:45,066 WARNING :: Binance Websocket connection closed
+2022-04-23 16:50:28,818 INFO :: Binance Futures Client successfully initialized
+2022-04-23 16:50:30,054 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 16:50:30,054 WARNING :: Binance Websocket connection closed
+2022-04-23 17:14:47,374 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:14:48,377 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x7f9f104528e0>>: on_error() takes 2 positional arguments but 3 were given
+2022-04-23 17:14:48,377 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x7f9f104528e0>>: on_close() takes 1 positional argument but 2 were given
+2022-04-23 17:18:56,779 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:18:58,054 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:18:58,055 WARNING :: Binance Websocket connection closed
+2022-04-23 17:19:07,139 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:19:08,042 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:19:08,042 WARNING :: Binance Websocket connection closed
+2022-04-23 17:19:32,511 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:19:33,732 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:19:33,732 WARNING :: Binance Websocket connection closed
+2022-04-23 17:22:51,113 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:22:52,485 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:22:52,485 WARNING :: Binance Websocket connection closed
+2022-04-23 17:23:10,312 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:23:11,327 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:23:11,328 WARNING :: Binance Websocket connection closed
+2022-04-23 17:29:51,629 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:29:52,498 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:29:52,498 WARNING :: Binance Websocket connection closed
+2022-04-23 17:30:29,191 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:30:30,007 ERROR :: Binance connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)
+2022-04-23 17:30:30,008 WARNING :: Binance Websocket connection closed
+2022-04-23 17:32:00,119 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:32:01,579 INFO :: Binance connection opened
+2022-04-23 17:32:01,580 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fd2c4bf68b0>>: 'BinanceFuturesClient' object has no attribute 'subscribe_channel'
+2022-04-23 17:33:11,489 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:33:12,776 INFO :: Binance connection opened
+2022-04-23 17:45:41,761 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:45:42,854 INFO :: Binance connection opened
+2022-04-23 17:54:57,252 INFO :: Binance Futures Client successfully initialized
+2022-04-23 17:54:58,887 INFO :: Binance connection opened
+2022-04-23 18:11:21,201 INFO :: Binance Futures Client successfully initialized
+2022-04-23 18:11:22,855 INFO :: Binance connection opened
+2022-04-23 19:09:02,625 INFO :: Binance Futures Client successfully initialized
+2022-04-23 19:09:04,395 INFO :: Binance connection opened
+2022-04-23 19:09:04,395 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7f9a669498e0>>: 'str' object has no attribute 'symbol'
+2022-04-23 19:10:07,343 INFO :: Binance Futures Client successfully initialized
+2022-04-23 19:10:08,770 INFO :: Binance connection opened
+2022-04-23 19:10:08,770 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fe7f8948970>>: 'str' object has no attribute 'symbol'
+2022-04-23 19:10:37,445 INFO :: Binance Futures Client successfully initialized
+2022-04-23 19:10:38,927 INFO :: Binance connection opened
+2022-04-23 19:10:38,927 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fe80e166970>>: 'str' object has no attribute 'symbol'
+2022-04-23 19:11:19,072 INFO :: Binance Futures Client successfully initialized
+2022-04-23 19:11:20,596 INFO :: Binance connection opened
+2022-04-23 19:11:20,596 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7ff221166970>>: 'str' object has no attribute 'symbol'
+2022-04-23 19:14:13,418 INFO :: Binance Futures Client successfully initialized
+2022-04-23 19:14:14,979 INFO :: Binance connection opened
+2022-04-23 19:16:41,381 INFO :: Binance Futures Client successfully initialized
+2022-04-23 19:16:42,782 INFO :: Binance connection opened
+2022-04-23 19:16:42,782 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fa4e896f850>>: 'str' object has no attribute 'symbol'
+2022-04-24 15:48:15,184 INFO :: Binance Futures Client successfully initialized
+2022-04-24 15:48:17,429 INFO :: Binance connection opened
+2022-04-24 15:48:17,429 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fdf69966850>>: 'str' object has no attribute 'symbol'
+2022-04-24 15:48:32,095 INFO :: Binance Futures Client successfully initialized
+2022-04-24 15:48:33,501 INFO :: Binance connection opened
+2022-04-24 15:48:33,501 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7f8999966850>>: 'str' object has no attribute 'symbol'
+2022-04-24 15:49:05,227 INFO :: Binance Futures Client successfully initialized
+2022-04-24 15:49:06,607 INFO :: Binance connection opened
+2022-04-24 15:49:06,607 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fead1957430>>: 'str' object has no attribute 'symbol'
+2022-04-24 15:49:51,102 INFO :: Binance Futures Client successfully initialized
+2022-04-24 15:49:52,514 INFO :: Binance connection opened
+2022-04-24 15:49:52,515 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7f9dd9166850>>: 'str' object has no attribute 'symbol'
+2022-04-24 16:09:38,270 INFO :: Binance Futures Client successfully initialized
+2022-04-24 16:09:40,206 INFO :: Binance connection opened
+2022-04-24 16:46:30,149 INFO :: Binance Futures Client successfully initialized
+2022-04-24 16:46:31,679 INFO :: Binance connection opened
+2022-04-24 17:02:42,106 INFO :: Binance Futures Client successfully initialized
+2022-04-24 17:02:43,505 INFO :: Binance connection opened
+2022-04-26 08:39:27,783 INFO :: Bitmex Client succesfully initialized
+2022-04-26 08:39:56,224 INFO :: Bitmex Client succesfully initialized
+2022-04-26 09:09:57,865 INFO :: Binance Futures Client successfully initialized
+2022-04-26 09:09:59,488 INFO :: Binance connection opened
+2022-04-26 09:09:59,488 ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fbf5c184a90>>: 'Contract' object has no attribute 'symbol'
+2022-04-26 09:11:59,096 INFO :: Binance Futures Client successfully initialized
+2022-04-26 09:12:00,537 INFO :: Binance connection opened
+2022-04-26 09:31:30,409 ERROR :: Error while making GET request to /api/v1/user/margein: {'error': {'message': 'Not Found', 'name': 'HTTPError'}} (error code 404)
+2022-04-26 09:31:30,409 INFO :: Bitmex Client succesfully initialized
+2022-04-26 09:32:11,114 ERROR :: Error while making GET request to /api/v1/user/margein: {'error': {'message': 'Not Found', 'name': 'HTTPError'}} (error code 404)
+2022-04-26 09:32:11,114 INFO :: Bitmex Client succesfully initialized
+2022-04-26 09:32:49,672 INFO :: Bitmex Client succesfully initialized
+2022-04-26 09:34:48,046 INFO :: Bitmex Client succesfully initialized
+2022-04-26 09:35:50,797 INFO :: Bitmex Client succesfully initialized
+2022-04-28 09:30:06,699 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:45:58,968 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:45:59,092 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid side', 'name': 'ValidationError'}} (error code 400)
+2022-04-28 10:47:34,248 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:47:34,388 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Unsupported timeInForce', 'name': 'ValidationError'}} (error code 400)
+2022-04-28 10:48:23,582 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:48:23,708 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Unsupported timeInForce', 'name': 'ValidationError'}} (error code 400)
+2022-04-28 10:49:33,835 INFO :: Bitmex Client successfully initialized
+2022-04-28 10:49:33,957 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Unsupported timeInForce', 'name': 'ValidationError'}} (error code 400)
+2022-04-28 10:50:10,239 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:50:10,358 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Unsupported timeInForce', 'name': 'ValidationError'}} (error code 400)
+2022-04-28 10:50:24,044 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:50:24,188 ERROR :: Error while making POST request to /api/v1/order: {'error': {'message': 'Invalid leavesQty for lotSize', 'name': 'HTTPError'}} (error code 400)
+2022-04-28 10:53:26,144 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:53:52,325 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:54:08,853 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:56:34,114 INFO :: Bitmex Client succesfully initialized
+2022-04-28 10:56:52,889 INFO :: Bitmex Client succesfully initialized
+2022-04-28 11:06:12,437 INFO :: Binance Futures Client successfully initialized
+2022-04-28 11:06:13,929 INFO :: Binance connection opened
+2022-04-28 11:16:24,451 INFO :: Bitmex Client succesfully initialized
+2022-04-28 11:17:25,406 INFO :: Bitmex Client succesfully initialized
+2022-04-28 11:17:25,927 INFO :: Bitmex connection opened
+2022-04-28 11:18:14,120 INFO :: Bitmex Client succesfully initialized
+2022-04-28 11:18:14,828 INFO :: Bitmex connection opened
+2022-04-28 11:23:56,247 INFO :: Bitmex Client succesfully initialized
+2022-04-28 11:23:56,766 INFO :: Bitmex connection opened
+2022-04-28 20:54:08,790 INFO :: Bitmex Client succesfully initialized
+2022-04-28 20:54:09,443 INFO :: Bitmex connection opened
+2022-04-28 21:01:30,665 INFO :: Bitmex Client succesfully initialized
+2022-04-28 21:01:30,853 INFO :: Bitmex connection opened
+2022-04-28 21:03:01,441 INFO :: Bitmex Client succesfully initialized
+2022-04-28 21:03:01,641 INFO :: Bitmex connection opened
+2022-04-28 21:18:41,162 INFO :: Bitmex Client succesfully initialized
+2022-04-28 21:18:41,361 INFO :: Bitmex connection opened
+2022-04-28 21:22:06,713 INFO :: Bitmex Client succesfully initialized
+2022-04-28 21:22:07,123 INFO :: Bitmex connection opened
+2022-04-28 21:23:42,624 INFO :: Bitmex Client succesfully initialized
+2022-04-28 21:23:42,795 INFO :: Bitmex connection opened
+2022-04-28 21:55:58,275 INFO :: Bitmex Client succesfully initialized
+2022-04-28 21:55:58,488 INFO :: Bitmex connection opened
+2022-05-01 16:46:57,875 INFO :: Binance Futures Client successfully initialized
+2022-05-01 16:46:58,565 INFO :: Bitmex Client succesfully initialized
+2022-05-01 16:46:59,284 INFO :: Binance connection opened
+2022-05-01 16:47:00,047 INFO :: Bitmex connection opened
+2022-05-01 16:51:48,214 INFO :: Binance Futures Client successfully initialized
+2022-05-01 16:51:49,479 INFO :: Bitmex Client succesfully initialized
+2022-05-01 16:51:49,787 INFO :: Binance connection opened
+2022-05-01 16:51:50,387 INFO :: Bitmex connection opened
+2022-05-01 17:12:21,733 INFO :: Binance Futures Client successfully initialized
+2022-05-01 17:12:22,440 INFO :: Bitmex Client succesfully initialized
+2022-05-01 17:12:23,160 INFO :: Binance connection opened
+2022-05-01 17:12:23,529 INFO :: Bitmex connection opened
+2022-05-01 17:18:45,474 INFO :: Binance Futures Client successfully initialized
+2022-05-01 17:18:46,427 INFO :: Bitmex Client succesfully initialized
+2022-05-01 17:18:47,003 INFO :: Binance connection opened
+2022-05-01 17:18:47,124 INFO :: Bitmex connection opened
+2022-05-01 17:20:07,066 INFO :: Binance Futures Client successfully initialized
+2022-05-01 17:20:07,706 INFO :: Bitmex Client succesfully initialized
+2022-05-01 17:20:08,435 INFO :: Binance connection opened
+2022-05-01 17:20:08,472 INFO :: Bitmex connection opened
+2022-05-01 17:23:41,335 INFO :: Binance Futures Client successfully initialized
+2022-05-01 17:23:42,026 INFO :: Bitmex Client succesfully initialized
+2022-05-01 17:23:42,822 INFO :: Bitmex connection opened
+2022-05-01 17:23:43,655 INFO :: Binance connection opened
+2022-05-01 17:46:31,901 INFO :: Binance Futures Client successfully initialized
+2022-05-01 17:46:32,569 INFO :: Bitmex Client succesfully initialized
+2022-05-01 17:46:32,980 INFO :: Bitmex connection opened
+2022-05-01 17:46:33,296 INFO :: Binance connection opened
+2022-05-01 17:46:36,612 INFO :: XBTUSD 38508.5 / 38567.5
+2022-05-01 17:46:36,633 INFO :: XBTUSD 38508.5 / 38567.5
+2022-05-01 17:46:40,364 INFO :: XBTUSD 38508.5 / 38567.5
+2022-05-01 17:46:44,250 INFO :: XBTUSD 38508.5 / 38567.5
+2022-05-01 17:46:46,329 INFO :: XBTUSD 38508.5 / 38567.5
+2022-05-01 17:47:35,116 INFO :: Binance Futures Client successfully initialized
+2022-05-01 17:47:35,825 INFO :: Bitmex Client succesfully initialized
+2022-05-01 17:47:36,640 INFO :: Binance connection opened
+2022-05-01 17:47:36,886 INFO :: Bitmex connection opened
+2022-05-01 17:47:38,938 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:47:38,966 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:47:40,275 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:47:46,295 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:47:50,790 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:47:54,100 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:47:55,290 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:48:01,281 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:48:03,707 INFO :: XBTUSD 38506.5 / 38507
+2022-05-01 17:48:04,017 INFO :: XBTUSD 38506.5 / 38518
+2022-05-01 17:48:05,773 INFO :: XBTUSD 38506.5 / 38518
+2022-05-01 17:48:08,973 INFO :: XBTUSD 38506.5 / 38518
+2022-05-01 17:48:10,281 INFO :: XBTUSD 38506.5 / 38518
+2022-05-01 17:48:13,999 INFO :: XBTUSD 38506.5 / 38518
+2022-05-01 17:48:16,286 INFO :: XBTUSD 38506.5 / 38518
+2022-05-01 18:21:06,118 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:21:06,877 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:21:07,534 INFO :: Binance connection opened
+2022-05-01 18:21:07,639 INFO :: Bitmex connection opened
+2022-05-01 18:21:12,247 INFO :: XBTUSD 38524.5 / 38571
+2022-05-01 18:21:12,261 INFO :: XBTUSD 38524.5 / 38571
+2022-05-01 18:21:15,972 INFO :: XBTUSD 38524.5 / 38571
+2022-05-01 18:21:18,957 INFO :: XBTUSD 38529 / 38571
+2022-05-01 18:21:20,257 INFO :: XBTUSD 38529 / 38571
+2022-05-01 18:23:02,889 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:23:03,868 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:23:04,565 INFO :: Binance connection opened
+2022-05-01 18:23:04,778 INFO :: Bitmex connection opened
+2022-05-01 18:23:06,592 INFO :: XBTUSD 38512.5 / 38528.5
+2022-05-01 18:23:06,774 INFO :: XBTUSD 38512.5 / 38528.5
+2022-05-01 18:23:11,261 INFO :: XBTUSD 38512.5 / 38528.5
+2022-05-01 18:23:15,752 INFO :: XBTUSD 38512.5 / 38528.5
+2022-05-01 18:23:19,058 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:20,383 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:26,248 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:30,748 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:33,514 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:35,284 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:38,964 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:41,305 INFO :: XBTUSD 38508.5 / 38528.5
+2022-05-01 18:23:47,922 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:23:48,501 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:23:49,261 INFO :: Binance connection opened
+2022-05-01 18:23:49,264 INFO :: Bitmex connection opened
+2022-05-01 18:23:51,804 INFO :: XBTUSD 38508.5 / 38519
+2022-05-01 18:23:51,822 INFO :: XBTUSD 38508.5 / 38519
+2022-05-01 18:23:56,322 INFO :: XBTUSD 38508.5 / 38519
+2022-05-01 18:24:12,813 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:24:13,596 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:24:14,178 INFO :: Binance connection opened
+2022-05-01 18:24:14,268 INFO :: Bitmex connection opened
+2022-05-01 18:24:16,749 INFO :: XBTUSD 38508.5 / 38519
+2022-05-01 18:24:16,770 INFO :: XBTUSD 38508.5 / 38519
+2022-05-01 18:29:11,409 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:29:12,074 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:29:12,949 INFO :: Binance connection opened
+2022-05-01 18:29:13,062 INFO :: Bitmex connection opened
+2022-05-01 18:29:16,672 INFO :: XBTUSD 38433 / 38452
+2022-05-01 18:29:16,706 INFO :: XBTUSD 38433 / 38452
+2022-05-01 18:29:19,185 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:20,275 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:26,248 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:28,955 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:30,768 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:35,892 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:29:36,711 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:29:37,331 INFO :: Bitmex connection opened
+2022-05-01 18:29:37,341 INFO :: Binance connection opened
+2022-05-01 18:29:39,015 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:39,017 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:41,253 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:46,190 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:29:50,240 INFO :: XBTUSD 38450.5 / 38452
+2022-05-01 18:43:29,200 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:43:39,582 INFO :: Binance connection opened
+2022-05-01 18:43:41,605 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:43:43,205 INFO :: Bitmex connection opened
+2022-05-01 18:47:54,882 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:47:57,029 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:47:57,961 INFO :: Binance connection opened
+2022-05-01 18:47:58,055 INFO :: Bitmex connection opened
+2022-05-01 18:48:21,185 INFO :: XBTUSD 38396 / 38458.5
+2022-05-01 18:48:21,207 INFO :: XBTUSD 38396 / 38458.5
+2022-05-01 18:48:21,228 INFO :: XBTUSD 38396 / 38458.5
+2022-05-01 18:48:21,303 INFO :: XBTUSD 38396 / 38458.5
+2022-05-01 18:48:21,334 INFO :: XBTUSD 38396 / 38458.5
+2022-05-01 18:48:23,436 INFO :: XBTUSD 38396 / 38458.5
+2022-05-01 18:48:23,452 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:23,757 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:24,843 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:27,133 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:34,060 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:34,823 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:35,710 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:41,917 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:43,990 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:47,291 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:48,978 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:52,569 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:48:56,824 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:49:01,972 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:49:03,959 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:49:07,444 INFO :: XBTUSD 38396 / 38430
+2022-05-01 18:49:17,756 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:49:18,581 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:49:19,251 INFO :: Binance connection opened
+2022-05-01 18:49:19,527 INFO :: Bitmex connection opened
+2022-05-01 18:50:51,480 INFO :: Binance Futures Client successfully initialized
+2022-05-01 18:50:52,141 INFO :: Bitmex Client succesfully initialized
+2022-05-01 18:50:52,938 INFO :: Binance connection opened
+2022-05-01 18:50:52,979 INFO :: Bitmex connection opened
+2022-05-01 18:50:56,470 INFO :: XBTUSD 38389.5 / 38390
+2022-05-01 18:50:56,493 INFO :: XBTUSD 38389.5 / 38390
+2022-05-01 18:50:58,993 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:00,247 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:06,248 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:10,834 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:15,269 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:18,967 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:21,372 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:24,034 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:25,765 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:30,714 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:36,334 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:38,957 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:40,755 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:45,316 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:51,255 INFO :: XBTUSD 38379.5 / 38380
+2022-05-01 18:51:54,036 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:51:55,881 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:00,490 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:06,248 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:08,988 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:10,832 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:14,025 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:15,280 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:16,480 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:16,778 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:19,127 INFO :: XBTUSD 38376.5 / 38377
+2022-05-01 18:52:19,130 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:21,379 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:23,955 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:25,768 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:30,245 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:33,771 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:36,434 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:39,092 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:40,776 INFO :: XBTUSD 38369 / 38398.5
+2022-05-01 18:52:43,964 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:52:45,269 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:52:48,956 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:52:51,251 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:52:55,888 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:53:00,311 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:53:05,316 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:53:06,334 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:53:08,018 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:53:08,951 INFO :: XBTUSD 38396.5 / 38398.5
+2022-05-01 18:53:08,952 INFO :: XBTUSD 38321 / 38398.5
+2022-05-01 18:53:10,778 INFO :: XBTUSD 38321 / 38398.5
+2022-05-01 18:53:15,266 INFO :: XBTUSD 38321 / 38398.5
+2022-05-01 23:14:49,652 INFO :: Binance Futures Client successfully initialized
+2022-05-01 23:14:50,314 INFO :: Bitmex Client succesfully initialized
+2022-05-01 23:14:50,981 INFO :: Binance connection opened
+2022-05-01 23:14:50,988 INFO :: Bitmex connection opened
+2022-05-01 23:14:53,548 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:14:53,948 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:14:54,222 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:14:55,717 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:14:58,963 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:14:59,329 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:15:00,208 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:15:03,406 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:15:03,900 INFO :: XBTUSD 38514.5 / 38515
+2022-05-01 23:15:03,901 INFO :: XBTUSD 38393 / 38515
+2022-05-01 23:16:18,227 INFO :: Binance Futures Client successfully initialized
+2022-05-01 23:16:18,779 INFO :: Bitmex Client succesfully initialized
+2022-05-01 23:16:19,300 INFO :: Bitmex connection opened
+2022-05-01 23:16:19,506 INFO :: Binance connection opened
+2022-05-01 23:16:21,105 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:21,196 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:25,808 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:29,976 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:30,202 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:36,243 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:40,751 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:45,197 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:51,208 INFO :: XBTUSD 38500.5 / 38522
+2022-05-01 23:16:55,805 INFO :: XBTUSD 38500.5 / 38522
+2022-05-06 14:11:48,660 INFO :: Binance Futures Client successfully initialized
+2022-05-06 14:11:49,111 INFO :: Bitmex Client succesfully initialized
+2022-05-06 14:11:49,846 INFO :: Bitmex connection opened
+2022-05-06 14:11:49,901 INFO :: Binance connection opened
+2022-05-06 14:11:52,531 INFO :: XBTUSD 35814 / 35835.5
+2022-05-06 14:11:52,552 INFO :: XBTUSD 35814 / 35835.5
+2022-05-06 14:11:54,075 INFO :: XBTUSD 35814 / 35835.5
+2022-05-06 14:11:56,373 INFO :: XBTUSD 35814 / 35835.5
+2022-05-06 14:11:59,087 INFO :: XBTUSD 35814 / 35835.5
+2022-05-06 14:12:00,888 INFO :: XBTUSD 35814 / 35835.5
+2022-05-06 14:12:04,093 INFO :: XBTUSD 35814 / 35831.5
+2022-05-06 14:12:06,882 INFO :: XBTUSD 35814 / 35831.5
+2022-05-06 14:12:09,110 INFO :: XBTUSD 35814 / 35832
+2022-05-06 14:12:11,387 INFO :: XBTUSD 35814 / 35832
+2022-05-06 14:12:14,146 INFO :: XBTUSD 35814 / 35830
+2022-05-06 14:12:15,875 INFO :: XBTUSD 35814 / 35830
+2022-05-06 14:12:19,088 INFO :: XBTUSD 35814 / 35830
+2022-05-06 14:12:20,438 INFO :: XBTUSD 35814 / 35830
+2022-05-06 14:12:24,237 INFO :: XBTUSD 35814 / 35830
+2022-05-06 14:12:24,239 INFO :: XBTUSD 35814 / 35830
+2022-05-06 14:12:24,239 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:26,372 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:28,066 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:29,102 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:30,142 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:30,927 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:33,715 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:34,126 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:35,382 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:47,740 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:48,127 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:48,149 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:49,081 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:50,370 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:56,371 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:12:59,083 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:00,867 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:06,878 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:09,081 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:11,596 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:12,031 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:12,861 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:13,064 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:14,086 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:14,086 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:15,877 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:19,159 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:20,400 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:26,384 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:29,251 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:30,491 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:31,016 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:41,572 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:41,845 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:41,934 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:46,030 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:50,405 INFO :: XBTUSD 35800.5 / 35840
+2022-05-06 14:13:54,082 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:56,513 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:58,818 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:59,083 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:13:59,092 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:00,882 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:03,103 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:03,588 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:04,074 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:07,007 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:11,374 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:14,073 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:15,876 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:18,060 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:19,078 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:19,080 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:20,403 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:32,361 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:32,374 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:32,413 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:33,735 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:35,491 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:39,072 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:41,370 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:14:57,379 INFO :: Binance Futures Client successfully initialized
+2022-05-06 14:14:57,634 INFO :: Bitmex Client succesfully initialized
+2022-05-06 14:14:58,047 INFO :: Bitmex connection opened
+2022-05-06 14:14:58,881 INFO :: Binance connection opened
+2022-05-06 14:15:03,211 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:03,244 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:04,133 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:06,868 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:11,365 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,323 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,938 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,938 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,947 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,947 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,947 INFO :: XBTUSD 35800.5 / 35830
+2022-05-06 14:15:21,949 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:21,976 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:22,161 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:23,061 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:24,067 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:24,111 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:26,378 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:29,069 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:30,102 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:30,886 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:33,591 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:34,075 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:35,367 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:39,272 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:41,369 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:44,071 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:46,102 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:49,110 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:50,369 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:15:56,442 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:00,866 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:07,010 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:09,071 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:11,363 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:15,970 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:20,366 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:24,070 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:26,460 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:29,070 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:30,147 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:30,879 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:35,371 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:16:41,371 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:04,564 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:04,869 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:04,925 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:04,997 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:06,917 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:09,082 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:11,513 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:15,896 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:16,549 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:18,061 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:19,070 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:19,074 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:20,552 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:26,365 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:30,082 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:31,035 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:33,574 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:35,370 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:41,525 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:45,867 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:50,363 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:54,136 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:17:56,364 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:00,861 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:06,872 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:11,365 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:15,862 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:18,230 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:19,269 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:19,270 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:20,373 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:24,127 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:24,128 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:26,388 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:28,081 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:29,098 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:30,156 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:30,881 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:33,577 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:34,066 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:35,393 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:41,372 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:44,063 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:45,875 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:56,960 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:56,991 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:57,311 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:18:59,079 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:00,895 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:14,955 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:15,042 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:15,868 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:20,534 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:26,423 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:29,085 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:30,081 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:31,022 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:32,494 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:33,113 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:33,569 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:33,890 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:34,158 INFO :: XBTUSD 35749 / 35806
+2022-05-06 14:19:34,160 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:35,358 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:39,065 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:41,498 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:44,063 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:45,925 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:49,097 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:50,362 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:54,094 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:19:56,362 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:01,468 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:06,882 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:11,359 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:24,961 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:24,999 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:26,357 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:30,082 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:30,245 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:31,075 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:33,161 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:33,592 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:34,213 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:34,214 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:35,538 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:39,073 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:41,564 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:44,071 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:45,355 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:49,061 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:51,384 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:54,403 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:55,872 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:58,050 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:59,079 INFO :: XBTUSD 35741 / 35806
+2022-05-06 14:20:59,080 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:00,428 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:03,588 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:04,061 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:06,369 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:10,925 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:15,535 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:21,400 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:24,062 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:25,360 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:29,127 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:30,087 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:31,356 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:33,581 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:34,065 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:35,854 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:39,220 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:40,366 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:46,352 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:50,854 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:54,058 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:21:55,358 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:01,359 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:04,070 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:05,861 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:10,416 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:16,356 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:20,853 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:25,362 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:30,170 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:31,400 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:33,563 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:35,905 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:40,513 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:46,351 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:50,855 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:55,368 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:22:59,077 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:23:01,401 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:23:03,567 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:23:03,708 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:23:04,055 INFO :: XBTUSD 35741 / 35830
+2022-05-06 14:23:04,065 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:05,877 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:08,059 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:10,358 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:12,910 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:13,045 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:14,099 INFO :: XBTUSD 35741 / 35860
+2022-05-06 14:23:14,100 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:16,364 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:20,850 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:24,133 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:25,465 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:29,150 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:30,077 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:31,359 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:33,560 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:35,914 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:39,055 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:40,416 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:44,305 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:46,354 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:49,063 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:50,963 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:54,060 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:55,349 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:23:59,069 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:01,353 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:04,059 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:05,853 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:10,358 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:16,375 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:16,764 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:16,766 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:17,891 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:18,042 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:19,054 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:19,063 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:20,855 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:25,470 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:29,057 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:30,085 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:31,407 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:33,563 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:35,913 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:39,058 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:40,347 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:44,065 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:46,347 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:50,865 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:54,071 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:24:55,352 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:01,412 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:05,852 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:10,351 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:14,106 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:16,375 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:20,870 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:25,372 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:30,092 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:31,411 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:33,563 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:36,019 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:39,101 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:40,356 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:46,350 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:50,849 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:25:55,375 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:26:01,376 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:26:04,053 INFO :: XBTUSD 35739 / 35860
+2022-05-06 14:26:04,058 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:05,921 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:08,040 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:09,101 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:10,349 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:14,062 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:16,470 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:20,846 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:24,146 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:25,376 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:30,085 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:31,346 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:33,671 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:34,057 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:35,922 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:39,111 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:40,426 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:44,113 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:46,368 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:50,846 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:26:55,345 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:01,421 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:05,850 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:10,352 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:14,116 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:16,369 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:20,845 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:24,050 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:25,482 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:30,077 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:31,420 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:36,029 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:40,351 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:46,346 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:50,853 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:54,052 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:27:55,383 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:01,343 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:04,052 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:05,928 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:09,047 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:10,436 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:16,362 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:19,060 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:20,846 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:24,053 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:25,387 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:30,114 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:31,428 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:33,554 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:34,081 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:35,852 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:40,374 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:44,054 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:46,345 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:50,844 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:54,157 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:28:55,395 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:01,432 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:04,051 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:05,847 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:09,049 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:10,352 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:14,048 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:16,345 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:20,845 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:24,056 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:25,387 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:29,055 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:30,114 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:31,430 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:33,580 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:35,935 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:40,350 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:44,044 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:46,338 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:50,839 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:29:55,390 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:01,348 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:03,586 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:04,066 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:05,840 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:10,356 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:14,045 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:16,346 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:19,048 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:20,860 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:23,006 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:23,048 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:23,857 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:24,054 INFO :: XBTUSD 35739 / 35923
+2022-05-06 14:30:24,054 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:25,357 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:28,034 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:29,058 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:30,069 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:31,360 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:33,586 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:34,048 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:35,942 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:39,047 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:40,373 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:44,062 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:46,345 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:49,052 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:50,892 INFO :: XBTUSD 35739 / 35938
+2022-05-06 14:30:54,050 INFO :: XBTUSD 35937.5 / 35938
+2022-05-06 14:30:55,395 INFO :: XBTUSD 35937.5 / 35938
+2022-05-06 14:30:59,059 INFO :: XBTUSD 35904 / 35938
+2022-05-06 14:31:01,354 INFO :: XBTUSD 35904 / 35938
+2022-05-06 14:31:04,101 INFO :: XBTUSD 35904 / 35938
+2022-05-06 14:31:05,844 INFO :: XBTUSD 35904 / 35938
+2022-05-06 14:31:09,042 INFO :: XBTUSD 35860 / 35938
+2022-05-06 14:31:10,345 INFO :: XBTUSD 35860 / 35938
+2022-05-06 14:31:14,051 INFO :: XBTUSD 35860 / 35885
+2022-05-06 14:31:16,350 INFO :: XBTUSD 35860 / 35885
+2022-05-06 14:31:19,053 INFO :: XBTUSD 35863.5 / 35885
+2022-05-06 14:31:20,846 INFO :: XBTUSD 35863.5 / 35885
+2022-05-06 14:31:24,053 INFO :: XBTUSD 35863.5 / 35874
+2022-05-06 14:31:25,343 INFO :: XBTUSD 35863.5 / 35874
+2022-05-06 14:31:29,062 INFO :: XBTUSD 35863.5 / 35874
+2022-05-06 14:31:30,062 INFO :: XBTUSD 35863.5 / 35874
+2022-05-06 14:31:31,440 INFO :: XBTUSD 35863.5 / 35874
+2022-05-06 14:31:33,589 INFO :: XBTUSD 35863.5 / 35874
+2022-05-06 14:31:34,103 INFO :: XBTUSD 35860 / 35874
+2022-05-06 14:31:35,943 INFO :: XBTUSD 35860 / 35874
+2022-05-06 14:31:40,343 INFO :: XBTUSD 35860 / 35874
+2022-05-06 14:31:44,047 INFO :: XBTUSD 35860 / 35874
+2022-05-06 14:31:46,343 INFO :: XBTUSD 35860 / 35874
+2022-05-06 14:31:49,044 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:31:50,845 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:31:55,403 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:31:59,087 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:01,338 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:03,561 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:04,085 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:05,846 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:09,043 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:10,338 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:16,347 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:16,633 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:16,643 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:17,831 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:18,131 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:19,059 INFO :: XBTUSD 35873.5 / 35874
+2022-05-06 14:32:19,062 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:20,849 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:24,099 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:25,347 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:26,023 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:29,090 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:29,091 INFO :: XBTUSD 35860 / 35917
+2022-05-06 14:32:30,066 INFO :: XBTUSD 35860 / 35917
+2022-05-06 14:32:31,446 INFO :: XBTUSD 35860 / 35917
+2022-05-06 14:32:33,597 INFO :: XBTUSD 35860 / 35917
+2022-05-06 14:32:34,043 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:35,849 INFO :: XBTUSD 35904 / 35917
+2022-05-06 14:32:39,039 INFO :: XBTUSD 35882 / 35917
+2022-05-06 14:32:40,342 INFO :: XBTUSD 35882 / 35917
+2022-05-06 14:32:44,049 INFO :: XBTUSD 35882 / 35917
+2022-05-06 14:32:46,352 INFO :: XBTUSD 35882 / 35917
+2022-05-06 14:32:49,043 INFO :: XBTUSD 35860 / 35903.5
+2022-05-06 14:32:50,841 INFO :: XBTUSD 35860 / 35903.5
+2022-05-06 14:32:54,097 INFO :: XBTUSD 35860 / 35881.5
+2022-05-06 14:32:55,341 INFO :: XBTUSD 35860 / 35881.5
+2022-05-06 14:32:59,060 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:01,449 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:04,044 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:06,842 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:09,044 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:11,377 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:14,049 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:15,848 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:16,523 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:16,531 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:17,333 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:18,035 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:19,042 INFO :: XBTUSD 35860 / 35860.5
+2022-05-06 14:33:19,059 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:19,291 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:20,336 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:23,036 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:24,050 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:24,050 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:26,350 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:29,050 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:30,060 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:30,696 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:30,846 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:33,040 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:33,557 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:34,047 INFO :: XBTUSD 35800.5 / 35801
+2022-05-06 14:33:34,049 INFO :: XBTUSD 35741 / 35749.5
+2022-05-06 14:33:35,342 INFO :: XBTUSD 35741 / 35749.5
+2022-05-06 14:33:39,128 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:41,351 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:44,057 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:45,844 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:49,041 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:50,335 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:54,046 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:56,335 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:56,413 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:57,866 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:58,038 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:59,094 INFO :: XBTUSD 35741 / 35741.5
+2022-05-06 14:33:59,095 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:00,843 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:03,549 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:04,043 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:06,840 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:11,386 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:11,405 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:12,838 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:14,050 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:14,051 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:15,890 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:16,635 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:17,423 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:19,040 INFO :: XBTUSD 35739 / 35739.5
+2022-05-06 14:34:19,045 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:20,335 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:26,339 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:30,057 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:30,837 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:33,602 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:34,040 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:35,449 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:39,037 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:41,385 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:44,041 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:45,836 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:50,336 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:54,044 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:56,346 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:34:59,100 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:35:00,946 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:35:06,837 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:35:08,534 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:35:09,050 INFO :: XBTUSD 35734.5 / 35735
+2022-05-06 14:35:09,050 INFO :: XBTUSD 35732 / 35735
+2022-05-06 14:35:10,045 INFO :: XBTUSD 35732 / 35735
+2022-05-06 14:35:11,342 INFO :: XBTUSD 35732 / 35735
+2022-05-06 14:35:13,034 INFO :: XBTUSD 35732 / 35735
+2022-05-06 14:35:14,039 INFO :: XBTUSD 35732 / 35735
+2022-05-06 14:35:14,040 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:15,835 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:16,895 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:18,028 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:19,036 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:19,043 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:20,333 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:24,049 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:26,336 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:29,042 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:30,061 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:30,945 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:33,607 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:35,334 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:41,333 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:41,389 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:42,837 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:43,028 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:44,038 INFO :: XBTUSD 35632.5 / 35633
+2022-05-06 14:35:44,039 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:45,839 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:47,993 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:48,863 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:49,038 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:49,039 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:50,402 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:53,024 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:54,038 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:55,057 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:56,341 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:57,260 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:57,880 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:58,084 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:59,049 INFO :: XBTUSD 35622 / 35622.5
+2022-05-06 14:35:59,060 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:00,832 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:02,371 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:03,552 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:03,827 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:04,018 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:04,046 INFO :: XBTUSD 35612 / 35612.5
+2022-05-06 14:36:04,047 INFO :: XBTUSD 35486 / 35493
+2022-05-06 14:36:06,886 INFO :: XBTUSD 35486 / 35493
+2022-05-06 14:36:08,035 INFO :: XBTUSD 35486 / 35493
+2022-05-06 14:36:09,054 INFO :: XBTUSD 35464 / 35493
+2022-05-06 14:36:11,338 INFO :: XBTUSD 35464 / 35493
+2022-05-06 14:36:14,053 INFO :: XBTUSD 35446.5 / 35493
+2022-05-06 14:36:15,836 INFO :: XBTUSD 35446.5 / 35493
+2022-05-06 14:36:16,576 INFO :: XBTUSD 35446.5 / 35493
+2022-05-06 14:36:17,329 INFO :: XBTUSD 35446.5 / 35493
+2022-05-06 14:36:19,041 INFO :: XBTUSD 35446.5 / 35493
+2022-05-06 14:36:19,043 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:20,407 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:21,022 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:21,053 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:21,057 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:21,062 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:21,065 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:21,836 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:23,027 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:24,037 INFO :: XBTUSD 35446.5 / 35463.5
+2022-05-06 14:36:24,046 INFO :: XBTUSD 35341 / 35376
+2022-05-06 14:36:26,346 INFO :: XBTUSD 35341 / 35376
+2022-05-06 14:36:27,022 INFO :: XBTUSD 35341 / 35376
+2022-05-06 14:36:27,877 INFO :: XBTUSD 35341 / 35376
+2022-05-06 14:36:28,033 INFO :: XBTUSD 35341 / 35376
+2022-05-06 14:36:29,040 INFO :: XBTUSD 35341 / 35376
+2022-05-06 14:36:29,041 INFO :: XBTUSD 35312 / 35326
+2022-05-06 14:36:30,054 INFO :: XBTUSD 35312 / 35326
+2022-05-06 14:36:30,830 INFO :: XBTUSD 35312 / 35326
+2022-05-06 14:36:33,611 INFO :: XBTUSD 35312 / 35326
+2022-05-06 14:36:34,020 INFO :: XBTUSD 35312 / 35326
+2022-05-06 14:36:34,053 INFO :: XBTUSD 35312 / 35326
+2022-05-06 14:36:34,056 INFO :: XBTUSD 35253 / 35284
+2022-05-06 14:36:34,067 INFO :: XBTUSD 35253 / 35284
+2022-05-06 14:36:35,354 INFO :: XBTUSD 35253 / 35284
+2022-05-06 14:36:38,031 INFO :: XBTUSD 35253 / 35284
+2022-05-06 14:36:39,018 INFO :: XBTUSD 35253 / 35284
+2022-05-06 14:36:39,049 INFO :: XBTUSD 35253 / 35284
+2022-05-06 14:36:39,050 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:39,068 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:39,087 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:39,095 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:41,332 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:43,025 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:44,103 INFO :: XBTUSD 35222 / 35252.5
+2022-05-06 14:36:44,104 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:45,394 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:49,104 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:50,106 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:51,497 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:53,093 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:54,166 INFO :: XBTUSD 35241 / 35241.5
+2022-05-06 14:36:54,167 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:36:55,897 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:36:59,120 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:00,397 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:03,616 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:04,108 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:06,396 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:09,109 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:10,895 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:11,082 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:12,387 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:13,094 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:14,117 INFO :: XBTUSD 35223.5 / 35224
+2022-05-06 14:37:14,118 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:37:15,395 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:37:16,473 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:37:16,549 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:37:18,088 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:37:19,105 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:37:19,108 INFO :: XBTUSD 35165 / 35178
+2022-05-06 14:37:21,404 INFO :: XBTUSD 35165 / 35178
+2022-05-06 14:37:24,164 INFO :: XBTUSD 35165 / 35178
+2022-05-06 14:37:25,894 INFO :: XBTUSD 35165 / 35178
+2022-05-06 14:37:29,103 INFO :: XBTUSD 35165 / 35199.5
+2022-05-06 14:37:30,120 INFO :: XBTUSD 35165 / 35199.5
+2022-05-06 14:37:30,409 INFO :: XBTUSD 35165 / 35199.5
+2022-05-06 14:37:33,684 INFO :: XBTUSD 35165 / 35199.5
+2022-05-06 14:37:34,107 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:36,400 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:38,456 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:39,110 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:39,111 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:40,903 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:43,091 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:44,108 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:45,466 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:49,116 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:51,398 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:54,100 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:55,904 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:56,943 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:58,088 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:59,111 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:37:59,112 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:00,401 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:03,607 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:04,107 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:06,398 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:09,101 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:10,895 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:15,402 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:16,523 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:19,149 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:19,152 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:21,401 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:21,456 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:24,185 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:24,186 INFO :: XBTUSD 35199 / 35199.5
+2022-05-06 14:38:24,189 INFO :: XBTUSD 35198 / 35244
+2022-05-06 14:38:25,901 INFO :: XBTUSD 35198 / 35244
+2022-05-06 14:38:29,102 INFO :: XBTUSD 35198 / 35200
+2022-05-06 14:38:30,112 INFO :: XBTUSD 35198 / 35200
+2022-05-06 14:38:30,129 INFO :: XBTUSD 35198 / 35200
+2022-05-06 14:38:30,397 INFO :: XBTUSD 35198 / 35200
+2022-05-06 14:38:33,691 INFO :: XBTUSD 35198 / 35200
+2022-05-06 14:38:34,107 INFO :: XBTUSD 35198 / 35200
+2022-05-06 14:38:34,108 INFO :: XBTUSD 35178 / 35200
+2022-05-06 14:38:36,398 INFO :: XBTUSD 35178 / 35200
+2022-05-06 14:38:39,116 INFO :: XBTUSD 35200 / 35220
+2022-05-06 14:38:40,898 INFO :: XBTUSD 35200 / 35220
+2022-05-06 14:38:44,101 INFO :: XBTUSD 35200 / 35201.5
+2022-05-06 14:38:45,410 INFO :: XBTUSD 35200 / 35201.5
+2022-05-06 14:38:49,103 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:38:51,507 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:38:54,274 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:38:55,910 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:38:59,116 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:39:00,403 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:39:03,612 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:39:04,101 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:39:04,120 INFO :: XBTUSD 35200 / 35200.5
+2022-05-06 14:39:04,121 INFO :: XBTUSD 35178 / 35200.5
+2022-05-06 14:39:06,394 INFO :: XBTUSD 35178 / 35200.5
+2022-05-06 14:39:09,118 INFO :: XBTUSD 35178 / 35178.5
+2022-05-06 14:39:10,102 INFO :: XBTUSD 35178 / 35178.5
+2022-05-06 14:39:10,896 INFO :: XBTUSD 35178 / 35178.5
+2022-05-06 14:39:14,141 INFO :: XBTUSD 35178 / 35178.5
+2022-05-06 14:39:14,142 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:39:15,401 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:39:16,184 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:39:16,499 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:39:16,504 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:39:19,102 INFO :: XBTUSD 35165 / 35165.5
+2022-05-06 14:39:19,107 INFO :: XBTUSD 35156 / 35178
+2022-05-06 14:39:21,408 INFO :: XBTUSD 35156 / 35178
+2022-05-06 14:39:22,124 INFO :: XBTUSD 35156 / 35178
+2022-05-06 14:39:24,100 INFO :: XBTUSD 35156 / 35178
+2022-05-06 14:39:24,105 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:26,017 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:27,200 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:28,166 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:28,166 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:29,114 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:29,115 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:30,218 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:30,235 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:30,419 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:33,091 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:33,695 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:34,104 INFO :: XBTUSD 35149 / 35178
+2022-05-06 14:39:34,105 INFO :: XBTUSD 35178 / 35222
+2022-05-06 14:39:36,396 INFO :: XBTUSD 35178 / 35222
+2022-05-06 14:39:39,106 INFO :: XBTUSD 35156 / 35200
+2022-05-06 14:39:40,973 INFO :: XBTUSD 35156 / 35200
+2022-05-06 14:39:44,143 INFO :: XBTUSD 35178 / 35222
+2022-05-06 14:39:45,573 INFO :: XBTUSD 35178 / 35222
+2022-05-06 14:39:48,619 INFO :: XBTUSD 35178 / 35222
+2022-05-06 14:39:49,108 INFO :: XBTUSD 35178 / 35222
+2022-05-06 14:39:49,113 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:39:51,413 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:39:53,155 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:39:54,181 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:39:55,923 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:39:59,144 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:40:00,419 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:40:03,710 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:40:04,133 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:40:06,480 INFO :: XBTUSD 35222 / 35244
+2022-05-06 14:40:08,124 INFO :: XBTUSD 35222 / 35244
+2022-05-06 23:32:23,657 ERROR :: Bitmex connection error: [Errno 54] Connection reset by peer
+2022-05-06 23:32:23,667 WARNING :: Bitmex Websocket connection closed
+2022-05-06 23:32:23,923 ERROR :: Binance connection error: [Errno 54] Connection reset by peer
+2022-05-06 23:32:23,924 WARNING :: Binance Websocket connection closed
+2022-05-06 23:32:25,865 INFO :: Bitmex connection opened
+2022-05-06 23:32:27,222 INFO :: Binance connection opened
+2022-05-06 23:32:28,956 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:30,134 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:30,479 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:33,612 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:34,103 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:36,419 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:39,184 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:40,923 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:44,109 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:45,384 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:45,402 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:48,117 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:49,103 INFO :: XBTUSD 35844.5 / 35964
+2022-05-06 23:32:49,104 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:32:51,400 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:32:55,900 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:32:57,932 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:32:58,945 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:32:59,115 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:32:59,116 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:00,409 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:03,615 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:06,408 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:10,926 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:14,104 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:15,397 INFO :: XBTUSD 35819 / 35988.5
+2022-05-06 23:33:19,226 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:21,398 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:24,105 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:25,981 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:29,153 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:30,125 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:30,406 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:34,195 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:36,396 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:40,928 INFO :: XBTUSD 35941 / 35988.5
+2022-05-06 23:33:44,188 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:33:45,396 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:33:51,478 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:33:54,139 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:33:55,981 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:33:59,691 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:34:00,674 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:34:06,442 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:34:10,908 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:34:14,106 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:34:15,402 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:34:19,108 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:21,397 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:24,153 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:25,986 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:30,126 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:30,545 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:34,103 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:36,397 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:40,938 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:44,105 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:45,405 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:49,136 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:51,426 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:54,151 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:55,928 INFO :: XBTUSD 35844.5 / 35985
+2022-05-06 23:34:59,120 INFO :: XBTUSD 35845 / 35985
+2022-05-06 23:35:00,410 INFO :: XBTUSD 35845 / 35985
+2022-05-06 23:35:03,614 INFO :: XBTUSD 35845 / 35985
+2022-05-06 23:35:06,408 INFO :: XBTUSD 35845 / 35985
+2022-05-06 23:35:10,944 INFO :: XBTUSD 35845 / 35985
+2022-05-06 23:35:15,398 INFO :: XBTUSD 35845 / 35985
+2022-05-06 23:35:19,195 INFO :: XBTUSD 35845 / 35988.5
+2022-05-06 23:35:21,425 INFO :: XBTUSD 35845 / 35988.5
+2022-05-06 23:35:24,106 INFO :: XBTUSD 35845 / 35988.5
+2022-05-06 23:35:26,006 INFO :: XBTUSD 35845 / 35988.5
+2022-05-06 23:35:29,112 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:30,136 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:30,519 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:34,184 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:36,405 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:39,110 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:40,917 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:44,218 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:45,398 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:51,405 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:54,106 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:56,002 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:35:59,076 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:00,402 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:06,407 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:10,908 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:14,103 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:15,397 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:19,157 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:21,402 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:24,108 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:25,901 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:29,172 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:30,134 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:30,404 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:33,068 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:33,394 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:33,623 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:34,129 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:34,130 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:36,443 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:39,105 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:40,948 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:45,399 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:49,143 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:51,400 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:54,110 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:36:55,898 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:00,404 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:04,225 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:06,449 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:09,108 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:10,897 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:14,127 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:15,406 INFO :: XBTUSD 35844.5 / 35988.5
+2022-05-06 23:37:19,138 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:21,406 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:24,115 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:26,011 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:29,178 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:30,129 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:30,511 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:36,401 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:39,111 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:40,943 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:44,128 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:45,469 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:49,107 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:51,518 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:54,164 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:56,027 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:37:59,126 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:00,430 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:03,619 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:06,401 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:09,105 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:10,912 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:15,401 INFO :: XBTUSD 35844.5 / 35968.5
+2022-05-06 23:38:19,110 INFO :: XBTUSD 35844.5 / 35936.5
+2022-05-06 23:38:21,402 INFO :: XBTUSD 35844.5 / 35936.5
+2022-05-06 23:38:24,106 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:25,910 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:29,106 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:30,221 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:30,414 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:34,135 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:36,404 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:40,905 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:44,109 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:45,403 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:49,108 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:51,405 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:38:55,903 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:39:00,410 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:39:04,195 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:39:06,460 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:39:09,121 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:39:10,965 INFO :: XBTUSD 35844.5 / 35936
+2022-05-06 23:39:14,139 INFO :: XBTUSD 35844.5 / 35936.5
+2022-05-06 23:39:15,414 INFO :: XBTUSD 35844.5 / 35936.5
+2022-05-06 23:39:19,158 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:21,398 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:24,112 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:25,919 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:30,219 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:30,402 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:36,432 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:40,903 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:45,402 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:51,399 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:54,107 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:39:55,919 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:00,401 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:06,405 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:11,025 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:13,866 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:13,901 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:14,109 INFO :: XBTUSD 35937 / 35964
+2022-05-06 23:40:14,110 INFO :: XBTUSD 35937 / 35984
+2022-05-06 23:40:15,406 INFO :: XBTUSD 35937 / 35984
+2022-05-06 23:40:15,885 INFO :: XBTUSD 35937 / 35984
+2022-05-06 23:40:18,138 INFO :: XBTUSD 35937 / 35984
+2022-05-06 23:40:19,108 INFO :: XBTUSD 35937 / 35984
+2022-05-06 23:40:19,121 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:21,416 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:24,115 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:26,023 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:30,223 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:30,404 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:33,609 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:34,105 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:36,399 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:40,945 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:45,399 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:51,398 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:40:55,924 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:41:00,428 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:41:03,621 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:41:06,394 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:41:09,100 INFO :: XBTUSD 35904 / 35935.5
+2022-05-06 23:41:10,902 INFO :: XBTUSD 35904 / 35935.5
+2022-05-06 23:41:15,396 INFO :: XBTUSD 35904 / 35935.5
+2022-05-06 23:41:19,099 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:21,411 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:25,888 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:30,121 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:30,418 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:36,459 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:40,883 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:44,137 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:45,405 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:51,384 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:55,884 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:57,391 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:58,877 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:59,098 INFO :: XBTUSD 35904 / 35933.5
+2022-05-06 23:41:59,099 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:42:00,389 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:42:03,618 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:42:04,095 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:06,387 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:10,901 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:15,389 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:19,097 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:21,385 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:25,916 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:30,115 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:30,401 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:42:34,107 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:42:36,490 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:42:40,917 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:42:45,390 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:42:55,918 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:43:00,423 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:43:04,111 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:43:06,383 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:43:09,089 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:43:10,905 INFO :: XBTUSD 35948.5 / 35984
+2022-05-06 23:43:14,094 INFO :: XBTUSD 35948.5 / 35953.5
+2022-05-06 23:43:15,384 INFO :: XBTUSD 35948.5 / 35953.5
+2022-05-06 23:43:16,442 INFO :: XBTUSD 35948.5 / 35953.5
+2022-05-06 23:43:16,936 INFO :: XBTUSD 35948.5 / 35953.5
+2022-05-06 23:43:18,080 INFO :: XBTUSD 35948.5 / 35953.5
+2022-05-06 23:43:19,089 INFO :: XBTUSD 35948.5 / 35953.5
+2022-05-06 23:43:19,098 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:21,417 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:24,090 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:25,778 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:25,891 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:28,214 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:29,097 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:29,098 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:30,120 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:30,391 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:33,591 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:36,487 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:38,413 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:39,133 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:40,918 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:43,082 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:44,092 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:45,383 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:51,384 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:54,089 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:54,090 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:43:55,886 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:00,395 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:03,592 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:06,618 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:10,887 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:15,495 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:21,386 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:24,192 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:25,890 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:30,115 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:30,405 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:40,888 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:45,384 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:49,171 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:51,388 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:54,086 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:44:55,880 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:00,398 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:06,579 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:09,098 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:10,430 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:14,090 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:16,400 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:20,918 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:45:24,098 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:25,393 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:30,237 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:31,383 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:34,092 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:35,886 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:38,045 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:38,876 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:39,142 INFO :: XBTUSD 35904 / 35951.5
+2022-05-06 23:45:39,143 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:45:40,388 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:45:43,305 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:45:46,395 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:45:49,107 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:45:50,921 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:45:55,381 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:01,393 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:03,595 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:04,091 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:05,891 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:10,458 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:14,089 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:16,395 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:20,932 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:24,088 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:25,468 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:31,407 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:33,589 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:34,092 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:35,891 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:40,388 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:42,118 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:43,094 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:43,382 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:44,091 INFO :: XBTUSD 35904 / 35955
+2022-05-06 23:46:44,092 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:46:46,388 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:46:50,923 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:46:55,451 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:01,472 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:03,592 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:05,977 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:10,388 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:16,423 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:19,091 INFO :: XBTUSD 35950.5 / 35984
+2022-05-06 23:47:20,931 INFO :: XBTUSD 35950.5 / 35984
+2022-05-06 23:47:25,437 INFO :: XBTUSD 35950.5 / 35984
+2022-05-06 23:47:29,145 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:30,122 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:31,383 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:35,995 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:40,399 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:46,384 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:50,932 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:47:55,383 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:01,390 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:04,084 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:05,982 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:10,489 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:16,392 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:20,896 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:25,387 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:30,115 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:31,397 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:35,888 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:39,088 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:40,415 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:46,383 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:50,885 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:55,380 INFO :: XBTUSD 35904 / 35984
+2022-05-06 23:48:59,111 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:00,972 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:04,089 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:06,888 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:11,410 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:15,898 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:19,118 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:20,428 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:26,383 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:29,008 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:30,154 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:30,977 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:35,401 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:35,448 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:36,916 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:38,178 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:39,194 INFO :: XBTUSD 35982 / 35984
+2022-05-06 23:49:39,197 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:39,692 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:39,882 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:41,380 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:41,699 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:42,954 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:43,073 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:44,092 INFO :: XBTUSD 35982 / 36028
+2022-05-06 23:49:44,092 INFO :: XBTUSD 35904 / 35992
+2022-05-06 23:49:45,925 INFO :: XBTUSD 35904 / 35992
+2022-05-06 23:49:50,388 INFO :: XBTUSD 35904 / 35992
+2022-05-06 23:49:51,021 INFO :: XBTUSD 35904 / 35992
+2022-05-06 23:49:53,102 INFO :: XBTUSD 35904 / 35992
+2022-05-06 23:49:54,121 INFO :: XBTUSD 35904 / 35992
+2022-05-06 23:49:54,122 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:49:55,878 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:49:59,135 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:00,429 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:03,640 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:04,098 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:06,382 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:10,924 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:14,206 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:15,381 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:16,541 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:16,899 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:18,765 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:19,104 INFO :: XBTUSD 35886.5 / 35992
+2022-05-06 23:50:19,124 INFO :: XBTUSD 35886.5 / 36023.5
+2022-05-06 23:50:21,457 INFO :: XBTUSD 35886.5 / 36023.5
+2022-05-06 23:50:23,143 INFO :: XBTUSD 35886.5 / 36023.5
+2022-05-06 23:50:24,089 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:25,884 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:29,124 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:30,168 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:30,982 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:33,641 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:34,092 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:35,382 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:41,445 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:45,891 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:50,441 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:54,087 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:50:56,386 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:51:00,982 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:51:06,921 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:51:11,396 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:51:15,886 INFO :: XBTUSD 35976 / 36023.5
+2022-05-06 23:51:19,137 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:20,405 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:26,480 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:30,187 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:31,098 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:35,402 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:41,392 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:44,005 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:44,041 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:44,091 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:51:44,094 INFO :: XBTUSD 36013 / 36023.5
+2022-05-06 23:51:45,935 INFO :: XBTUSD 36013 / 36023.5
+2022-05-06 23:51:50,381 INFO :: XBTUSD 36013 / 36023.5
+2022-05-06 23:51:56,390 INFO :: XBTUSD 36013 / 36023.5
+2022-05-06 23:52:00,987 INFO :: XBTUSD 36013 / 36023.5
+2022-05-06 23:52:03,600 INFO :: XBTUSD 36013 / 36023.5
+2022-05-06 23:52:04,126 INFO :: XBTUSD 36013 / 36020
+2022-05-06 23:52:06,871 INFO :: XBTUSD 36013 / 36020
+2022-05-06 23:52:10,948 INFO :: XBTUSD 36013 / 36020
+2022-05-06 23:52:15,379 INFO :: XBTUSD 36013 / 36020
+2022-05-06 23:52:19,120 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:21,379 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:25,888 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:30,108 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:30,386 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:36,382 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:40,893 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:45,390 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:51,382 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:54,092 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:52:55,887 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:00,512 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:06,422 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:10,905 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:15,380 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:16,660 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:16,910 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:18,096 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:19,085 INFO :: XBTUSD 36014 / 36020
+2022-05-06 23:53:19,103 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:21,381 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:24,112 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:25,897 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:29,103 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:30,211 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:30,485 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:33,586 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:36,424 INFO :: XBTUSD 36018 / 36023.5
+2022-05-06 23:53:39,189 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:53:40,893 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:53:45,381 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:53:51,387 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:53:54,139 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:53:55,884 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:53:59,134 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:00,406 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:06,380 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:10,889 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:12,275 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:12,380 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:13,090 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:14,040 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:14,085 INFO :: XBTUSD 36010 / 36017.5
+2022-05-06 23:54:14,114 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:15,402 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:18,100 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:19,130 INFO :: XBTUSD 36015 / 36023.5
+2022-05-06 23:54:21,387 INFO :: XBTUSD 36015 / 36023.5
+2022-05-06 23:54:25,832 INFO :: XBTUSD 36015 / 36023.5
+2022-05-06 23:54:29,037 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:30,056 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:30,335 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:33,536 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:36,330 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:39,132 INFO :: XBTUSD 36010 / 36023.5
+2022-05-06 23:54:40,881 INFO :: XBTUSD 36010 / 36023.5
+2022-05-10 20:36:50,520 INFO :: Binance Futures Client successfully initialized
+2022-05-10 20:36:51,180 INFO :: Bitmex Client succesfully initialized
+2022-05-10 20:36:51,871 INFO :: Binance connection opened
+2022-05-10 20:36:51,948 INFO :: Bitmex connection opened
+2022-05-10 20:36:53,949 INFO :: XBTUSD 31398 / 31399
+2022-05-10 20:36:55,414 INFO :: XBTUSD 31398 / 31399
+2022-05-10 20:37:01,936 INFO :: Binance Futures Client successfully initialized
+2022-05-10 20:37:02,500 INFO :: Bitmex Client succesfully initialized
+2022-05-10 20:37:03,359 INFO :: Binance connection opened
+2022-05-10 20:37:03,370 INFO :: Bitmex connection opened
+2022-05-10 20:37:06,562 INFO :: XBTUSD 31398 / 31399
+2022-05-10 20:37:06,582 INFO :: XBTUSD 31398 / 31399
+2022-05-10 20:37:09,111 INFO :: XBTUSD 31398 / 31399
+2022-05-10 20:37:19,580 INFO :: Binance Futures Client successfully initialized
+2022-05-10 20:37:20,100 INFO :: Bitmex Client succesfully initialized
+2022-05-10 20:37:20,684 INFO :: Bitmex connection opened
+2022-05-10 20:37:20,828 INFO :: Binance connection opened
+2022-05-28 15:41:29,268 INFO :: Binance Futures Client successfully initialized
+2022-05-28 15:41:29,609 INFO :: Bitmex Client succesfully initialized
+2022-05-28 15:41:30,069 INFO :: Bitmex connection opened
+2022-05-28 15:41:30,228 INFO :: Binance connection opened
+2022-05-28 15:41:33,705 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:41:33,706 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:41:35,828 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:41:40,330 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:41:46,367 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:41:55,330 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:42:01,339 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:42:03,595 INFO :: XBTUSD 28983.5 / 28996.5
+2022-05-28 15:42:04,046 INFO :: XBTUSD 28983.5 / 28984
+2022-05-28 15:42:05,828 INFO :: XBTUSD 28983.5 / 28984
+2022-05-28 16:04:16,830 INFO :: Binance Futures Client successfully initialized
+2022-05-28 16:04:17,131 INFO :: Bitmex Client succesfully initialized
+2022-05-28 16:04:17,844 INFO :: Bitmex connection opened
+2022-05-28 16:04:17,862 INFO :: Binance connection opened
+2022-05-28 16:04:21,024 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:21,041 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:26,343 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:30,835 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:33,606 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:35,339 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:39,043 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:41,352 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:45,829 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:50,399 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:04:56,325 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:00,887 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:06,836 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:09,138 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:11,393 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:15,845 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:19,033 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:19,039 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:20,331 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:26,329 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:30,837 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:33,633 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:41,395 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:45,831 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:50,331 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:05:56,377 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:00,974 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:06,851 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:11,402 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:15,860 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:19,081 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:19,082 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:26,335 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:30,829 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:33,619 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:35,362 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:41,403 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:44,138 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:45,828 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:50,333 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:06:56,329 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:00,836 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:04,038 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:06,834 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:15,855 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:18,061 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:19,033 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:19,037 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:20,418 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:26,340 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:30,861 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:33,626 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:35,226 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:35,260 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:35,329 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:39,039 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:39,039 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:41,410 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:45,837 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:46,529 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:47,496 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:48,065 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:49,191 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:07:49,193 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:07:50,329 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:07:56,334 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:00,866 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:03,590 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:06,829 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:11,334 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:14,078 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:15,919 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:16,746 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:17,362 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:19,096 INFO :: XBTUSD 28971 / 29020
+2022-05-28 16:08:19,099 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:20,337 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:26,366 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:30,877 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:33,635 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:35,330 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:41,329 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:45,838 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:50,334 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:08:56,371 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:00,873 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:03,640 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:06,846 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:11,419 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:15,853 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:16,752 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:19,046 INFO :: XBTUSD 28971 / 28972
+2022-05-28 16:09:19,047 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:20,332 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:24,120 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:26,370 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:30,345 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:33,641 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:36,335 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:40,834 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:44,042 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:45,333 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:49,105 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:51,390 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:09:55,866 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:10:00,334 INFO :: XBTUSD 28971 / 28973.5
+2022-05-28 16:10:04,044 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:06,416 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:10,841 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:15,342 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:19,211 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:19,213 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:21,405 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:25,837 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:30,351 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:33,680 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:36,416 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:40,866 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:45,336 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:51,364 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:54,040 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:10:55,918 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:00,334 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:04,039 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:06,338 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:09,080 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:10,839 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:15,348 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:19,115 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:19,116 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:21,367 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:24,043 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:25,835 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:29,042 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:30,343 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:33,573 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:36,336 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:40,839 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:45,341 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:49,276 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:53,742 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:56,964 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:11:58,244 INFO :: XBTUSD 28971 / 28971.5
+2022-05-28 16:12:01,962 INFO :: XBTUSD 28971 / 28971.5
+2022-06-30 20:56:24,367 INFO :: Binance Futures Client successfully initialized
+2022-06-30 20:56:24,746 INFO :: Bitmex Client succesfully initialized
+2022-06-30 20:56:25,173 INFO :: Bitmex connection opened
+2022-06-30 20:56:25,490 INFO :: Binance connection opened
+2022-06-30 20:56:30,239 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:30,251 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:30,881 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:34,094 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:35,370 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:39,111 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:41,371 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:44,068 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 20:56:45,865 INFO :: XBTUSD 18851.5 / 18852
+2022-06-30 21:01:52,865 INFO :: Binance Futures Client successfully initialized
+2022-06-30 21:01:53,153 INFO :: Bitmex Client succesfully initialized
+2022-06-30 21:01:53,579 INFO :: Bitmex connection opened
+2022-06-30 21:01:53,885 INFO :: Binance connection opened
+2022-06-30 21:01:56,168 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:01:56,202 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:01:59,109 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:01:59,926 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:01:59,927 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:02:01,366 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:02:03,103 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:02:03,580 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:02:04,051 INFO :: XBTUSD 18927.5 / 19098
+2022-06-30 21:02:04,070 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:05,875 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:09,078 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:10,366 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:10,997 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:11,855 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:13,081 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:14,049 INFO :: XBTUSD 19267 / 19267.5
+2022-06-30 21:02:14,068 INFO :: XBTUSD 18873 / 18873.5
+2022-06-30 21:02:16,391 INFO :: XBTUSD 18873 / 18873.5
+2022-06-30 21:02:16,720 INFO :: XBTUSD 18873 / 18873.5
+2022-06-30 21:02:16,720 INFO :: XBTUSD 18873 / 18873.5
+2022-06-30 21:02:18,082 INFO :: XBTUSD 18873 / 18873.5
+2022-06-30 21:02:19,052 INFO :: XBTUSD 18873 / 18873.5
+2022-06-30 21:02:19,332 INFO :: XBTUSD 18851 / 18881.5
+2022-06-30 21:02:20,871 INFO :: XBTUSD 18851 / 18881.5
+2022-06-30 21:41:16,327 INFO :: Binance Futures Client successfully initialized
+2022-06-30 21:41:16,654 INFO :: Bitmex Client succesfully initialized
+2022-06-30 21:41:17,267 INFO :: Bitmex connection opened
+2022-06-30 21:41:17,430 INFO :: Binance connection opened
+2022-06-30 21:41:18,521 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:18,522 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:19,036 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:19,052 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:21,349 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:24,049 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:25,865 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:30,353 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:33,561 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:34,050 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:36,412 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:39,051 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:40,904 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:44,052 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:45,376 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:49,111 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:51,346 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:54,055 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:55,871 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:41:59,053 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:00,352 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:03,559 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:04,080 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:06,343 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:09,053 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:10,853 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:14,066 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:15,361 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:16,397 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:16,400 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:18,088 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:19,043 INFO :: XBTUSD 19419 / 19917.5
+2022-06-30 21:42:19,066 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:21,344 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:24,050 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:25,871 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:29,048 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:30,382 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:33,564 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:36,345 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:39,061 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:40,850 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:44,049 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:45,343 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:49,415 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:51,348 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:54,048 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:55,874 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:42:59,054 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:43:00,348 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:43:04,059 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:43:06,345 INFO :: XBTUSD 19420 / 19917.5
+2022-06-30 21:43:09,084 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:10,845 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:14,049 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:15,355 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:16,456 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:16,457 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:18,067 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:19,118 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:19,120 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:21,343 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:25,843 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:30,343 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:33,659 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:34,048 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:36,350 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:39,089 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:40,962 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:44,059 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:45,350 INFO :: XBTUSD 19420 / 19919
+2022-06-30 21:43:49,063 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:43:51,342 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:43:54,047 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:43:55,845 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:43:59,055 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:44:00,347 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:44:03,554 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:44:04,034 INFO :: XBTUSD 19420 / 19420.5
+2022-06-30 21:44:04,049 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:06,363 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:09,092 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:10,850 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:14,055 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:15,343 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:16,386 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:16,387 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:19,036 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:19,065 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:21,354 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:24,051 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:25,844 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:29,051 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:30,388 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:33,552 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:34,048 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:36,357 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:40,852 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:44,050 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:45,342 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:49,052 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:51,344 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:55,847 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:44:59,062 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:00,358 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:04,050 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:06,351 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:10,845 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:14,051 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:15,355 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:19,032 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:19,050 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:21,356 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:24,046 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:25,841 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:29,062 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:30,341 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:33,568 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:34,048 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:36,352 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:39,051 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:40,849 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:44,047 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:45,343 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:49,047 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:51,350 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:54,149 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:45:55,859 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:00,376 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:06,339 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:09,049 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:10,941 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:14,044 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:15,340 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:19,133 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:19,134 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:21,339 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:25,892 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:29,045 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:30,356 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:35,008 INFO :: Binance Futures Client successfully initialized
+2022-06-30 21:46:35,236 INFO :: Bitmex Client succesfully initialized
+2022-06-30 21:46:35,642 INFO :: Bitmex connection opened
+2022-06-30 21:46:36,388 INFO :: Binance connection opened
+2022-06-30 21:46:38,584 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:39,045 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:40,849 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:44,046 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:45,450 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:51,391 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:55,842 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:46:59,069 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:00,345 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:04,053 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:06,342 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:09,045 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:10,853 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:14,044 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:15,340 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:32,904 INFO :: Binance Futures Client successfully initialized
+2022-06-30 21:47:33,355 INFO :: Bitmex Client succesfully initialized
+2022-06-30 21:47:33,921 INFO :: Bitmex connection opened
+2022-06-30 21:47:34,052 INFO :: Binance connection opened
+2022-06-30 21:47:35,991 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:36,340 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:40,839 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:44,126 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:45,344 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:47:51,336 INFO :: XBTUSD 19417 / 19417.5
+2022-06-30 21:59:27,666 INFO :: Binance Futures Client successfully initialized
+2022-06-30 21:59:27,948 INFO :: Bitmex Client succesfully initialized
+2022-06-30 21:59:28,604 INFO :: Bitmex connection opened
+2022-06-30 21:59:28,718 INFO :: Binance connection opened
+2022-06-30 21:59:30,943 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:30,973 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:33,539 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:34,044 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:36,414 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:39,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:40,920 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:44,037 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:45,337 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:49,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:51,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:54,041 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:55,835 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:59,044 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 21:59:59,974 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:00:01,341 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:00:04,040 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:00:05,854 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:00:09,040 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:00:10,332 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:00:14,041 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:14,084 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:04:14,326 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:04:14,926 INFO :: Bitmex connection opened
+2022-06-30 22:04:15,470 INFO :: Binance connection opened
+2022-06-30 22:04:16,238 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:16,334 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:19,020 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:19,036 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:20,879 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:24,054 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:25,335 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:31,341 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:33,539 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:34,037 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:35,362 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:35,839 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:38,056 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:39,063 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:39,142 INFO :: XBTUSD 18851 / 18944.5
+2022-06-30 22:04:40,330 INFO :: XBTUSD 18851 / 18944.5
+2022-06-30 22:04:44,052 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:46,337 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:49,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:50,831 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:04:55,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:01,333 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:03,543 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:04,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:05,843 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:09,109 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:10,335 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:14,037 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:16,334 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:16,477 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:16,514 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:17,825 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:19,042 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:19,043 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:20,843 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:24,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:25,391 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:29,078 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:31,433 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:33,537 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:34,036 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:35,836 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:39,042 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:40,341 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:44,036 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:46,332 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:49,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:50,833 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:56,626 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:05:56,842 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:05:57,351 INFO :: Bitmex connection opened
+2022-06-30 22:05:57,859 INFO :: Binance connection opened
+2022-06-30 22:05:58,596 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:05:59,039 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:01,337 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:04,040 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:05,840 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:09,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:10,344 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:14,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:16,386 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:19,048 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:19,049 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:20,848 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:24,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:25,360 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:29,035 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:31,336 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:33,589 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:35,829 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:39,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:40,347 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:44,035 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:46,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:49,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:50,836 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:55,335 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:06:59,086 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:01,354 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:06,978 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:07:07,204 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:07:07,867 INFO :: Bitmex connection opened
+2022-06-30 22:07:08,610 INFO :: Binance connection opened
+2022-06-30 22:07:11,083 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:11,107 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:14,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:16,392 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:19,036 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:20,898 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:24,076 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:25,338 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:29,041 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:31,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:34,036 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:35,853 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:39,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:40,354 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:44,040 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:46,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:49,038 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:50,832 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:54,074 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:55,330 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:07:59,041 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:01,340 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:04,041 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:05,829 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:09,044 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:10,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:14,044 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:16,336 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:19,062 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:19,063 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:20,905 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:24,044 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:25,329 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:29,096 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:31,334 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:33,602 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:35,831 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:39,131 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:40,338 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:44,046 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:46,330 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:49,035 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:50,906 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:54,035 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:08:57,977 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:08:58,215 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:08:58,649 INFO :: Bitmex connection opened
+2022-06-30 22:08:59,283 INFO :: Binance connection opened
+2022-06-30 22:09:01,014 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:01,351 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:04,033 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:05,857 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:10,327 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:14,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:16,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:19,017 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:19,037 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:20,924 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:25,335 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:29,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:31,341 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:33,540 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:34,055 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:35,833 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:39,136 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:40,328 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:44,037 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:46,335 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:49,035 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:50,828 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:54,039 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:09:55,328 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:01,328 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:05,832 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:09,039 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:10,327 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:14,056 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:16,331 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:19,018 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:19,034 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:20,915 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:24,035 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:25,328 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:10:29,031 INFO :: XBTUSD 18851 / 18851.5
+2022-06-30 22:13:23,293 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:13:23,654 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:13:24,118 INFO :: Bitmex connection opened
+2022-06-30 22:13:24,388 INFO :: Binance connection opened
+2022-06-30 22:13:26,072 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:26,103 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:29,032 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:31,379 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:34,037 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:35,884 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:39,033 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:40,329 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:44,029 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:46,351 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:49,030 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:50,835 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:13:55,326 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:01,382 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:05,841 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:09,060 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:10,327 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:14,034 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:16,328 INFO :: XBTUSD 18868.5 / 18897
+2022-06-30 22:14:19,031 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:20,834 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:24,032 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:25,344 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:32,574 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:14:32,820 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:14:33,265 INFO :: Bitmex connection opened
+2022-06-30 22:14:33,865 INFO :: Binance connection opened
+2022-06-30 22:14:35,942 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:35,963 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:39,035 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:40,326 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:47,774 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:14:48,068 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:14:48,406 INFO :: Bitmex connection opened
+2022-06-30 22:14:48,894 INFO :: Binance connection opened
+2022-06-30 22:14:50,931 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:50,945 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:54,040 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:55,329 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:14:59,035 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:01,332 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:04,031 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:05,893 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:09,031 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:10,341 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:14,030 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:16,328 INFO :: XBTUSD 18870 / 18898.5
+2022-06-30 22:15:19,035 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:20,843 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:24,032 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:25,348 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:29,138 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:31,331 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:34,034 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:35,824 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:39,030 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:40,324 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:44,030 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:46,329 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:53,144 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:15:53,347 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:15:53,796 INFO :: Bitmex connection opened
+2022-06-30 22:15:54,409 INFO :: Binance connection opened
+2022-06-30 22:15:56,008 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:56,028 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:15:59,035 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:01,333 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:03,647 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:04,056 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:05,826 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:09,073 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:10,326 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:14,030 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:16,328 INFO :: XBTUSD 18878.5 / 18907
+2022-06-30 22:16:19,030 INFO :: XBTUSD 18887.5 / 18916
+2022-06-30 22:16:20,833 INFO :: XBTUSD 18887.5 / 18916
+2022-06-30 22:16:25,340 INFO :: XBTUSD 18887.5 / 18916
+2022-06-30 22:16:31,328 INFO :: XBTUSD 18887.5 / 18916
+2022-06-30 22:16:33,537 INFO :: XBTUSD 18887.5 / 18916
+2022-06-30 22:16:34,029 INFO :: XBTUSD 18890 / 18916
+2022-06-30 22:16:35,829 INFO :: XBTUSD 18890 / 18916
+2022-06-30 22:16:39,079 INFO :: XBTUSD 18890 / 18916
+2022-06-30 22:16:40,408 INFO :: XBTUSD 18890 / 18916
+2022-06-30 22:16:44,032 INFO :: XBTUSD 18895.5 / 18916
+2022-06-30 22:16:46,324 INFO :: XBTUSD 18895.5 / 18916
+2022-06-30 22:16:50,829 INFO :: XBTUSD 18895.5 / 18916
+2022-06-30 22:16:54,031 INFO :: XBTUSD 18895.5 / 18916
+2022-06-30 22:16:55,327 INFO :: XBTUSD 18895.5 / 18916
+2022-06-30 22:17:14,531 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:17:14,797 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:17:15,164 INFO :: Bitmex connection opened
+2022-06-30 22:17:15,500 INFO :: Binance connection opened
+2022-06-30 22:17:18,388 INFO :: XBTUSD 18895.5 / 18916
+2022-06-30 22:17:19,029 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:20,855 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:25,324 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:31,329 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:35,908 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:40,324 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:46,352 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:49,028 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:50,858 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:55,329 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:17:59,031 INFO :: XBTUSD 18899 / 18927.5
+2022-06-30 22:22:46,446 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:22:46,733 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:22:47,169 INFO :: Bitmex connection opened
+2022-06-30 22:22:47,560 INFO :: Binance connection opened
+2022-06-30 22:22:48,530 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:22:50,872 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:22:54,083 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:22:55,376 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:23:01,382 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:23:05,876 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:23:10,393 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:23:14,079 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:23:16,372 INFO :: XBTUSD 18877.5 / 18878
+2022-06-30 22:23:19,080 INFO :: XBTUSD 18861 / 18887.5
+2022-06-30 22:23:20,940 INFO :: XBTUSD 18861 / 18887.5
+2022-06-30 22:23:24,085 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:25,372 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:29,078 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:31,371 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:34,077 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:35,870 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:39,078 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:40,397 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:46,376 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:49,095 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:50,872 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:54,091 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:55,372 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:23:59,138 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:01,373 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:03,643 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:04,154 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:05,872 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:10,371 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:16,445 INFO :: XBTUSD 18887 / 18887.5
+2022-06-30 22:24:19,109 INFO :: XBTUSD 18861 / 18884
+2022-06-30 22:24:22,796 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:24:23,022 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:24:23,784 INFO :: Bitmex connection opened
+2022-06-30 22:24:24,492 INFO :: Binance connection opened
+2022-06-30 22:24:26,027 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:26,043 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:31,394 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:35,872 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:40,377 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:46,397 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:50,873 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:55,371 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:24:59,144 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:01,396 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:04,077 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:05,873 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:09,079 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:10,381 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:16,376 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:19,077 INFO :: XBTUSD 18861 / 18884
+2022-06-30 22:25:20,872 INFO :: XBTUSD 18861 / 18884
+2022-06-30 22:25:24,130 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:25,377 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:29,076 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:31,400 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:33,633 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:35,873 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:39,077 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:40,391 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:46,372 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:50,874 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:25:55,377 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:26:01,404 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:26:05,877 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:26:10,373 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:26:16,379 INFO :: XBTUSD 18883.5 / 18884
+2022-06-30 22:26:19,078 INFO :: XBTUSD 18863.5 / 18887
+2022-06-30 22:26:20,881 INFO :: XBTUSD 18863.5 / 18887
+2022-06-30 22:26:24,079 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:25,471 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:31,376 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:35,915 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:40,419 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:46,382 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:49,081 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:50,873 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:55,377 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:26:59,079 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:01,411 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:03,666 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:04,081 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:05,874 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:10,379 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:14,078 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:16,374 INFO :: XBTUSD 18886.5 / 18887
+2022-06-30 22:27:20,976 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:27:21,184 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:27:21,614 INFO :: Bitmex connection opened
+2022-06-30 22:27:22,301 INFO :: Binance connection opened
+2022-06-30 22:27:23,632 INFO :: XBTUSD 18863.5 / 18888
+2022-06-30 22:27:24,080 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:25,378 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:31,391 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:34,081 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:35,876 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:39,085 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:40,426 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:46,469 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:50,974 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:54,080 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:55,380 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:27:59,080 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:28:01,378 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:28:05,885 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:28:10,376 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:28:16,377 INFO :: XBTUSD 18887.5 / 18888
+2022-06-30 22:28:19,082 INFO :: XBTUSD 18869 / 18897.5
+2022-06-30 22:28:20,890 INFO :: XBTUSD 18869 / 18897.5
+2022-06-30 22:28:24,081 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:28:25,383 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:28:34,396 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:28:34,607 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:28:35,088 INFO :: Bitmex connection opened
+2022-06-30 22:28:35,712 INFO :: Binance connection opened
+2022-06-30 22:28:38,473 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:28:40,433 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:28:46,377 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:28:50,880 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:28:55,384 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:29:01,388 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:29:05,884 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:29:10,359 INFO :: Binance Futures Client successfully initialized
+2022-06-30 22:29:10,604 INFO :: Bitmex Client succesfully initialized
+2022-06-30 22:29:10,967 INFO :: Bitmex connection opened
+2022-06-30 22:29:11,617 INFO :: Binance connection opened
+2022-06-30 22:29:13,435 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:29:16,479 INFO :: XBTUSD 18897 / 18897.5
+2022-06-30 22:29:19,142 INFO :: XBTUSD 18863.5 / 18870.5
+2022-06-30 22:29:20,886 INFO :: XBTUSD 18863.5 / 18870.5
+2022-06-30 22:29:24,099 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:25,383 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:31,387 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:34,084 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:35,936 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:39,101 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:40,441 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:46,383 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:49,082 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 22:29:50,988 INFO :: XBTUSD 18870 / 18870.5
+2022-06-30 23:17:08,732 INFO :: Binance Futures Client successfully initialized
+2022-06-30 23:17:09,006 INFO :: Bitmex Client succesfully initialized
+2022-06-30 23:17:09,830 INFO :: Bitmex connection opened
+2022-06-30 23:17:10,478 INFO :: Binance connection opened
+2022-06-30 23:17:11,936 INFO :: XBTUSD 18756.5 / 18789.5
+2022-06-30 23:17:11,973 INFO :: XBTUSD 18756.5 / 18789.5
+2022-06-30 23:17:14,109 INFO :: XBTUSD 18756.5 / 18789.5
+2022-06-30 23:17:15,415 INFO :: XBTUSD 18756.5 / 18789.5
+2022-06-30 23:17:19,110 INFO :: XBTUSD 18779 / 18792.5
+2022-06-30 23:17:21,406 INFO :: XBTUSD 18779 / 18792.5
+2022-06-30 23:17:24,113 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:25,905 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:29,115 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:30,407 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:36,322 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:36,406 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:38,631 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:39,139 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:40,473 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:40,984 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:42,736 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:44,981 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:45,405 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:46,751 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:48,563 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:49,115 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:50,337 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:51,412 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:52,109 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:54,114 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:54,320 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:55,905 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:17:56,523 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:58,302 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:17:59,115 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:00,074 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:00,417 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:02,283 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:04,492 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:06,404 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:06,754 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:08,517 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:09,114 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:10,295 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:10,987 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:12,535 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:14,109 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:14,754 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:15,412 INFO :: XBTUSD 18779 / 18807.5
+2022-06-30 23:18:17,030 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:18,873 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:19,178 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:20,638 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:21,405 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:22,969 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:24,111 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:25,240 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:25,904 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:27,452 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:29,222 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:30,410 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:31,113 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:33,106 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:33,613 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:34,110 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:34,965 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:36,415 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:37,180 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:38,945 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:39,147 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:40,788 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:40,991 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:43,039 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:44,111 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:45,435 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:45,814 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-06-30 23:18:51,341 INFO :: Binance Futures Client successfully initialized
+2022-06-30 23:18:51,598 INFO :: Bitmex Client succesfully initialized
+2022-06-30 23:18:52,015 INFO :: Bitmex connection opened
+2022-06-30 23:18:52,664 INFO :: Binance connection opened
+2022-06-30 23:18:53,689 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:54,200 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:18:55,905 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:00,409 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:04,132 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:06,419 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:09,119 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:10,906 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:14,110 INFO :: XBTUSD 18778 / 18792
+2022-06-30 23:19:15,408 INFO :: XBTUSD 18778 / 18792
+2022-07-02 11:13:43,560 INFO :: Binance Futures Client successfully initialized
+2022-07-02 11:13:43,860 INFO :: Bitmex Client succesfully initialized
+2022-07-02 11:13:44,319 INFO :: Bitmex connection opened
+2022-07-02 11:13:44,684 INFO :: Binance connection opened
+2022-07-02 11:13:46,830 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:13:46,855 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:13:51,338 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:13:57,482 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:00,072 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:00,158 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:01,789 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:02,391 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:04,242 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:04,990 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:06,297 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:06,700 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:08,932 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:09,990 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:11,174 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:12,302 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:13,458 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:15,302 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:16,795 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:17,123 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:19,399 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:21,188 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:21,289 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:23,495 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:24,992 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:25,294 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:27,149 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:27,303 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:29,434 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:29,493 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:31,257 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:31,891 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:33,530 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:35,378 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:36,284 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:37,626 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:39,421 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:41,720 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:42,300 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:43,916 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:45,714 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:46,784 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:47,927 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:49,912 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:51,345 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:52,139 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:54,374 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:56,567 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:57,490 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:14:58,799 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:14:59,992 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:00,629 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:01,800 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:02,831 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:04,989 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:05,035 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:06,294 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:07,281 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:09,577 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:11,774 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:12,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:13,975 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:16,186 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:16,945 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:17,999 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:19,815 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:20,018 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:21,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:22,009 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:23,910 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:26,122 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:27,291 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:28,336 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:29,644 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:30,608 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:31,801 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:32,425 ERROR :: Error while making GET request to /fapi/v1/ticker/bookTicker: {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-07-02 11:15:34,991 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:36,286 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:42,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:44,992 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:46,796 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:51,287 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:15:57,292 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:16:01,796 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:16:05,073 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:16:06,300 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:16:09,991 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:16:12,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:04,200 INFO :: Binance Futures Client successfully initialized
+2022-07-02 11:17:04,603 INFO :: Bitmex Client succesfully initialized
+2022-07-02 11:17:05,058 INFO :: Bitmex connection opened
+2022-07-02 11:17:05,242 INFO :: Binance connection opened
+2022-07-02 11:17:07,070 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:07,333 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:11,839 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:14,995 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:16,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:22,292 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:26,789 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:29,656 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:31,286 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:37,290 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:39,998 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:41,786 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:44,997 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:46,289 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:53,418 INFO :: Binance Futures Client successfully initialized
+2022-07-02 11:17:53,662 INFO :: Bitmex Client succesfully initialized
+2022-07-02 11:17:54,045 INFO :: Bitmex connection opened
+2022-07-02 11:17:54,903 INFO :: Binance connection opened
+2022-07-02 11:17:56,838 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:17:56,852 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:01,297 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:07,339 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:11,845 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:16,292 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:22,287 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:26,790 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:31,314 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:37,445 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:39,991 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:41,059 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:41,790 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:44,009 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:45,022 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:46,285 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:52,397 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:56,901 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:18:59,564 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:01,293 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:05,093 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:07,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:11,861 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:16,289 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:22,290 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:26,789 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:29,669 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:31,289 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:34,989 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:37,285 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:41,784 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:46,288 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:49,991 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:52,293 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:19:56,789 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:02,848 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:05,100 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:07,353 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:10,016 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:11,859 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:14,991 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:16,292 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:22,303 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:26,790 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:29,996 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:31,314 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:35,003 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:37,459 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:41,803 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:46,287 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:52,409 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:20:54,991 INFO :: XBTUSD 19341 / 19341.5
+2022-07-02 11:41:12,891 INFO :: Binance Futures Client successfully initialized
+2022-07-02 11:41:13,246 INFO :: Bitmex Client successfully initialized
+2022-07-02 11:41:13,668 INFO :: Bitmex connection opened
+2022-07-02 11:41:14,115 INFO :: Binance connection opened
+2022-07-02 11:51:48,934 INFO :: Binance Futures Client successfully initialized
+2022-07-02 11:51:49,193 INFO :: Bitmex Client successfully initialized
+2022-07-02 11:51:49,644 INFO :: Bitmex connection opened
+2022-07-02 11:51:50,229 INFO :: Binance connection opened
+2022-07-02 13:09:35,999 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:09:36,307 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:09:36,799 INFO :: Bitmex connection opened
+2022-07-02 13:09:37,224 INFO :: Binance connection opened
+2022-07-02 13:21:12,006 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:21:12,387 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:21:12,807 INFO :: Bitmex connection opened
+2022-07-02 13:21:13,149 INFO :: Binance connection opened
+2022-07-02 13:21:45,632 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:21:45,932 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:21:46,308 INFO :: Bitmex connection opened
+2022-07-02 13:21:46,821 INFO :: Binance connection opened
+2022-07-02 13:22:38,432 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:22:38,728 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:22:39,138 INFO :: Bitmex connection opened
+2022-07-02 13:22:39,657 INFO :: Binance connection opened
+2022-07-02 13:27:23,936 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:27:24,245 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:27:24,736 INFO :: Bitmex connection opened
+2022-07-02 13:27:25,033 INFO :: Binance connection opened
+2022-07-02 13:44:43,103 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:44:43,480 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:44:44,070 INFO :: Bitmex connection opened
+2022-07-02 13:44:44,219 INFO :: Binance connection opened
+2022-07-02 13:45:31,424 INFO :: Binance Futures Client successfully initialized
+2022-07-02 13:45:31,705 INFO :: Bitmex Client successfully initialized
+2022-07-02 13:45:32,087 INFO :: Bitmex connection opened
+2022-07-02 13:45:32,559 INFO :: Binance connection opened
+2022-07-02 14:22:55,087 INFO :: Binance Futures Client successfully initialized
+2022-07-02 14:22:55,342 INFO :: Bitmex Client successfully initialized
+2022-07-02 14:22:55,927 INFO :: Bitmex connection opened
+2022-07-02 14:22:56,654 INFO :: Binance connection opened
+2022-07-02 14:23:54,411 INFO :: Binance Futures Client successfully initialized
+2022-07-02 14:23:54,690 INFO :: Bitmex Client successfully initialized
+2022-07-02 14:23:55,073 INFO :: Bitmex connection opened
+2022-07-02 14:23:55,433 INFO :: Binance connection opened
+2022-07-02 14:24:25,336 INFO :: Binance Futures Client successfully initialized
+2022-07-02 14:24:25,577 INFO :: Bitmex Client successfully initialized
+2022-07-02 14:24:25,915 INFO :: Bitmex connection opened
+2022-07-02 14:24:26,767 INFO :: Binance connection opened
+2022-07-03 11:56:09,819 INFO :: Binance Futures Client successfully initialized
+2022-07-03 11:56:10,422 INFO :: Bitmex Client successfully initialized
+2022-07-03 11:56:11,048 INFO :: Binance connection opened
+2022-07-03 11:56:11,081 INFO :: Bitmex connection opened
+2022-07-03 12:04:52,858 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:04:53,576 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:04:54,411 INFO :: Binance connection opened
+2022-07-03 12:04:54,421 INFO :: Bitmex connection opened
+2022-07-03 12:10:19,629 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:10:20,158 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:10:20,858 INFO :: Bitmex connection opened
+2022-07-03 12:10:20,863 INFO :: Binance connection opened
+2022-07-03 12:19:24,797 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:19:25,338 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:19:26,027 INFO :: Bitmex connection opened
+2022-07-03 12:19:26,037 INFO :: Binance connection opened
+2022-07-03 12:38:52,380 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:38:52,910 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:38:53,490 INFO :: Bitmex connection opened
+2022-07-03 12:38:53,563 INFO :: Binance connection opened
+2022-07-03 12:40:35,102 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:40:35,787 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:40:36,400 INFO :: Binance connection opened
+2022-07-03 12:40:36,404 INFO :: Bitmex connection opened
+2022-07-03 12:41:30,667 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:41:31,177 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:41:31,956 INFO :: Binance connection opened
+2022-07-03 12:41:31,984 INFO :: Bitmex connection opened
+2022-07-03 12:42:07,097 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:42:07,791 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:42:08,469 INFO :: Bitmex connection opened
+2022-07-03 12:42:09,464 INFO :: Binance connection opened
+2022-07-03 12:43:14,097 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:43:14,592 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:43:15,243 INFO :: Bitmex connection opened
+2022-07-03 12:43:15,296 INFO :: Binance connection opened
+2022-07-03 12:46:28,554 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:46:29,096 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:46:29,831 INFO :: Binance connection opened
+2022-07-03 12:46:29,870 INFO :: Bitmex connection opened
+2022-07-03 12:47:03,780 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:47:04,259 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:47:04,850 INFO :: Bitmex connection opened
+2022-07-03 12:47:04,922 INFO :: Binance connection opened
+2022-07-03 12:47:24,669 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:47:25,124 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:47:25,689 INFO :: Bitmex connection opened
+2022-07-03 12:47:25,817 INFO :: Binance connection opened
+2022-07-03 12:48:04,468 INFO :: Binance Futures Client successfully initialized
+2022-07-03 12:48:04,990 INFO :: Bitmex Client successfully initialized
+2022-07-03 12:48:05,594 INFO :: Bitmex connection opened
+2022-07-03 12:48:05,702 INFO :: Binance connection opened
+2022-07-03 13:01:15,548 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:01:16,195 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:01:16,928 INFO :: Binance connection opened
+2022-07-03 13:01:16,942 INFO :: Bitmex connection opened
+2022-07-03 13:02:34,547 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:02:35,099 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:02:35,669 INFO :: Bitmex connection opened
+2022-07-03 13:02:35,752 INFO :: Binance connection opened
+2022-07-03 13:03:03,875 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:03:04,362 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:03:04,968 INFO :: Bitmex connection opened
+2022-07-03 13:03:05,049 INFO :: Binance connection opened
+2022-07-03 13:08:16,328 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:08:17,022 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:08:17,609 INFO :: Binance connection opened
+2022-07-03 13:08:17,628 INFO :: Bitmex connection opened
+2022-07-03 13:10:31,127 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:10:31,996 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:10:32,650 INFO :: Binance connection opened
+2022-07-03 13:10:32,657 INFO :: Bitmex connection opened
+2022-07-03 13:13:08,426 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:13:08,978 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:13:09,695 INFO :: Binance connection opened
+2022-07-03 13:13:09,699 INFO :: Bitmex connection opened
+2022-07-03 13:13:28,380 INFO :: Binance Futures Client successfully initialized
+2022-07-03 13:13:28,881 INFO :: Bitmex Client successfully initialized
+2022-07-03 13:13:29,458 INFO :: Bitmex connection opened
+2022-07-03 13:13:29,551 INFO :: Binance connection opened
+2022-07-03 15:50:01,146 ERROR :: Binance connection error: [Errno 60] Operation timed out
+2022-07-03 15:50:01,140 ERROR :: Bitmex connection error: [Errno 60] Operation timed out
+2022-07-03 15:50:01,196 WARNING :: Binance Websocket connection closed
+2022-07-03 15:50:01,196 WARNING :: Bitmex Websocket connection closed
+2022-07-03 15:50:03,730 INFO :: Bitmex connection opened
+2022-07-03 15:50:04,483 INFO :: Binance connection opened
+2022-07-03 18:12:35,189 ERROR :: Bitmex connection error: [Errno 60] Operation timed out
+2022-07-03 18:12:35,223 WARNING :: Bitmex Websocket connection closed
+2022-07-03 18:12:35,676 ERROR :: Binance connection error: [Errno 60] Operation timed out
+2022-07-03 18:12:35,678 WARNING :: Binance Websocket connection closed
+2022-07-03 18:12:37,735 INFO :: Bitmex connection opened
+2022-07-03 18:12:39,089 INFO :: Binance connection opened
+2022-07-08 07:09:55,089 ERROR :: Bitmex connection error: [Errno 60] Operation timed out
+2022-07-08 07:09:55,167 WARNING :: Bitmex Websocket connection closed
+2022-07-08 07:09:55,566 ERROR :: Binance connection error: [Errno 60] Operation timed out
+2022-07-08 07:09:55,572 WARNING :: Binance Websocket connection closed
+2022-07-08 07:09:57,422 INFO :: Bitmex connection opened
+2022-07-08 07:09:58,799 INFO :: Binance connection opened
+2022-07-08 21:05:04,600 ERROR :: Bitmex connection error: [Errno 54] Connection reset by peer
+2022-07-08 21:05:04,754 WARNING :: Bitmex Websocket connection closed
+2022-07-08 21:05:05,248 ERROR :: Binance connection error: [Errno 54] Connection reset by peer
+2022-07-08 21:05:05,251 WARNING :: Binance Websocket connection closed
+2022-07-08 21:05:07,034 INFO :: Bitmex connection opened
+2022-07-08 21:05:08,402 INFO :: Binance connection opened

@@ -1,0 +1,59 @@
+Learnings Dictionary from bot:
+
+_before_variable -> means its a private variable
+
+ARGS & KWARGS
+
+Amazing explantion here: https://www.programiz.com/python-programming/args-and-kwargs
+
+- *args and **kwargs allow you to pass multiple arguments or keyword arguments to a function.
+- *kwargs is for dictionary type
+- *args is for tuple
+
+# *args is so you can add as many arguments inside a function without having to proprely write it
+# e.g
+# info function info(args*) I can then call that function with info("Name", 3, 5) whereas normally I should
+# have created the function as such: def info(student_name, age, IQ)
+
+def info(*args):
+    print(*args)
+info("Name", 3, 7) -> returns: Name 3 7
+
+
+# kwargs -> when calling the function if you capitalize the arguments like Name + give it a value
+# it transform it into a dictionary
+
+def test(**kwargs):
+    print(type(kwargs))
+    print(kwargs)
+
+test(Name="Bap", Age=6) -> returns <class 'dict'>
+                                    {'Name': 'Bap', 'Age': 6}
+
+
+ENUMERATE()
+
+enumerate([1,2,3]) -> returns enumerate object number
+but when used in a loop, enumerate returns 2 things: the index of the first value and first value itself
+
+list1 = ['hello', 'bye']
+print(list(enumerate(list1))) -> returns [(0, 'hello'), (1, 'bye')]
+
+for x, y in enumerate(list1):
+    print(x)
+    print(y)
+-> returns:
+    0
+    hello
+    1
+    bye
+
+
+ITEMS()
+
+transform the key-value pairs of a dictionary into tuples in a list.
+
+car = {"brand": "Ford"}
+print(car.items())
+# returns dict_items([('brand', 'Ford')])
+
