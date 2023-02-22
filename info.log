@@ -3004,3 +3004,855 @@
 2022-07-08 21:05:05,251 WARNING :: Binance Websocket connection closed
 2022-07-08 21:05:07,034 INFO :: Bitmex connection opened
 2022-07-08 21:05:08,402 INFO :: Binance connection opened
+2023-02-22 07:37:32,600 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2023-02-22 07:37:32,601 INFO :: Binance Futures Client successfully initialized
+2023-02-22 07:37:32,759 ERROR :: Error while making GET request to /api/v1/instrument/active: {'error': {'message': 'Missing API key.', 'name': 'HTTPError'}} (error code 400)
+2023-02-22 07:37:32,836 ERROR :: Error while making GET request to /api/v1/user/margin: {'error': {'message': 'Missing API key.', 'name': 'HTTPError'}} (error code 400)
+2023-02-22 07:37:32,837 INFO :: Bitmex Client successfully initialized
+2023-02-22 07:37:33,436 INFO :: Bitmex connection opened
+2023-02-22 07:37:34,124 INFO :: Binance connection opened
+2023-02-22 07:40:21,384 INFO :: Binance Futures Client successfully initialized
+2023-02-22 07:40:21,586 INFO :: Bitmex Client successfully initialized
+2023-02-22 07:40:21,996 INFO :: Bitmex connection opened
+2023-02-22 07:40:22,666 INFO :: Binance connection opened
+2023-02-22 07:47:11,172 INFO :: Binance Futures Client successfully initialized
+2023-02-22 07:47:11,482 INFO :: Bitmex Client successfully initialized
+2023-02-22 07:47:11,910 INFO :: Bitmex connection opened
+2023-02-22 07:47:12,230 INFO :: Binance connection opened
+2023-02-22 07:58:06,156 INFO :: Binance Futures Client successfully initialized
+2023-02-22 07:58:06,390 INFO :: Bitmex Client successfully initialized
+2023-02-22 07:58:06,830 INFO :: Bitmex connection opened
+2023-02-22 07:58:07,480 INFO :: Binance connection opened
+2023-02-22 08:20:14,155 INFO :: Binance Futures Client successfully initialized
+2023-02-22 08:20:14,459 INFO :: Bitmex Client successfully initialized
+2023-02-22 08:20:14,874 INFO :: Bitmex connection opened
+2023-02-22 08:20:15,273 INFO :: Binance connection opened
+2023-02-22 08:20:15,281 ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fb4d29b38b0>>: 'Contract' object has no attribute 'symbol'
+2023-02-22 08:24:16,175 INFO :: Binance Futures Client successfully initialized
+2023-02-22 08:24:16,471 INFO :: Bitmex Client successfully initialized
+2023-02-22 08:24:16,986 INFO :: Bitmex connection opened
+2023-02-22 08:24:17,270 INFO :: Binance connection opened
+2023-02-22 08:24:17,270 ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7f7d9c1a2a30>>: 'Contract' object has no attribute 'symbol'
+2023-02-22 09:22:42,690 WARNING :: Bitmex Websocket connection closed
+2023-02-22 09:22:44,976 ERROR :: Bitmex connection error: Handshake status 502 Bad Gateway
+2023-02-22 09:22:44,980 WARNING :: Bitmex Websocket connection closed
+2023-02-22 09:22:47,093 ERROR :: Bitmex connection error: Handshake status 502 Bad Gateway
+2023-02-22 09:22:47,094 WARNING :: Bitmex Websocket connection closed
+2023-02-22 09:22:49,204 ERROR :: Bitmex connection error: Handshake status 502 Bad Gateway
+2023-02-22 09:22:49,205 WARNING :: Bitmex Websocket connection closed
+2023-02-22 09:22:51,317 ERROR :: Bitmex connection error: Handshake status 502 Bad Gateway
+2023-02-22 09:22:51,318 WARNING :: Bitmex Websocket connection closed
+2023-02-22 09:22:53,478 ERROR :: Bitmex connection error: Handshake status 502 Bad Gateway
+2023-02-22 09:22:53,478 WARNING :: Bitmex Websocket connection closed
+2023-02-22 09:22:55,601 INFO :: Bitmex connection opened
+2023-02-22 09:48:21,482 INFO :: Binance Futures Client successfully initialized
+2023-02-22 09:48:21,787 INFO :: Bitmex Client successfully initialized
+2023-02-22 09:48:22,329 INFO :: Bitmex connection opened
+2023-02-22 09:48:22,558 INFO :: Binance connection opened
+2023-02-22 09:48:22,559 ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7f8925162a30>>: 'Contract' object has no attribute 'symbol'
+2023-02-22 10:00:48,935 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:00:49,231 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:00:49,647 INFO :: Bitmex connection opened
+2023-02-22 10:00:49,996 INFO :: Binance connection opened
+2023-02-22 10:00:50,002 ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x7fc7a4862a90>>: 'Contract' object has no attribute 'symbol'
+2023-02-22 10:51:16,489 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:51:16,785 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:51:16,798 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:51:17,057 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063076795&signature=97619ac5ea4ecbbecdf8e049c81344ffc5423284621e9ef3f26eb1d8f2a4b525 HTTP/1.1" 200 None
+2023-02-22 10:51:17,061 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:51:17,108 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:51:17,266 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:51:17,299 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:51:17,433 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:51:17,436 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:51:17,861 INFO :: Websocket connected
+2023-02-22 10:51:17,861 INFO :: Bitmex connection opened
+2023-02-22 10:51:18,119 INFO :: Websocket connected
+2023-02-22 10:51:18,127 INFO :: Binance connection opened
+2023-02-22 10:51:18,135 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 10:51:41,996 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fa6a0840cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:51:41,998 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:51:42,025 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fa6a0840d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:51:42,025 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:52:57,581 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:52:58,026 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:52:58,037 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:52:58,389 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063178034&signature=a5eda71a0b4d687d45d36715195736bb5d1bd6a3fad702e2680c32d52536d2a8 HTTP/1.1" 200 None
+2023-02-22 10:52:58,393 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:52:58,412 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:52:58,505 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:52:58,539 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:52:58,690 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:52:58,693 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:52:59,060 INFO :: Websocket connected
+2023-02-22 10:52:59,060 INFO :: Bitmex connection opened
+2023-02-22 10:52:59,521 INFO :: Websocket connected
+2023-02-22 10:52:59,521 INFO :: Binance connection opened
+2023-02-22 10:52:59,522 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 10:53:36,687 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fd88b963cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:53:36,690 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:53:36,707 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fd88b963d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:53:36,707 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:54:01,518 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:54:01,877 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:54:01,893 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:54:02,154 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063241889&signature=d00cafc2ec3ca9426d6641421c32c0e38e401de7f5f07212d9836be238ea3433 HTTP/1.1" 200 None
+2023-02-22 10:54:02,160 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:54:02,164 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:54:02,312 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:54:02,349 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:54:02,473 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:54:02,476 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:54:02,815 INFO :: Websocket connected
+2023-02-22 10:54:02,815 INFO :: Bitmex connection opened
+2023-02-22 10:54:03,243 INFO :: Websocket connected
+2023-02-22 10:54:03,244 INFO :: Binance connection opened
+2023-02-22 10:54:03,251 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 10:54:31,675 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fa2a983fcd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:54:31,676 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:54:31,704 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fa2a983fd30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:54:31,705 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:54:50,750 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:54:51,025 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:54:51,041 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:54:51,296 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063291037&signature=4142c6a96af458536bcec1ff9dcbcb120a0e28fd3abba880864538143a4cbe6d HTTP/1.1" 200 None
+2023-02-22 10:54:51,301 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:54:51,319 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:54:51,413 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:54:51,446 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:54:51,664 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:54:51,678 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:54:52,038 INFO :: Websocket connected
+2023-02-22 10:54:52,038 INFO :: Bitmex connection opened
+2023-02-22 10:54:52,457 INFO :: Websocket connected
+2023-02-22 10:54:52,463 INFO :: Binance connection opened
+2023-02-22 10:54:52,475 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 10:55:45,813 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fce01041cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:55:45,815 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:55:45,834 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fce01041d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:55:45,835 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:56:00,775 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:56:01,040 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:56:01,055 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:56:01,310 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063361052&signature=b5bf728f817672c9219e7c2a8443ffdff8376981ccf0505281f7ccc072b3b52b HTTP/1.1" 200 None
+2023-02-22 10:56:01,315 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:56:01,318 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:56:01,399 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:56:01,448 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:56:01,576 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:56:01,582 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:56:02,016 INFO :: Websocket connected
+2023-02-22 10:56:02,016 INFO :: Bitmex connection opened
+2023-02-22 10:56:02,439 INFO :: Websocket connected
+2023-02-22 10:56:02,439 INFO :: Binance connection opened
+2023-02-22 10:56:02,440 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 10:56:14,384 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fd737962cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:56:14,384 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:56:14,412 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fd737962d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:56:14,413 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:56:23,079 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:56:23,349 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:56:23,363 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:56:23,632 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063383358&signature=d1db3ec8825a53e4ab0b97198bf0bb550d524af81e4b7eb6bb46d8f03716b379 HTTP/1.1" 200 None
+2023-02-22 10:56:23,636 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:56:23,681 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:56:23,827 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:56:23,865 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:56:23,979 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:56:23,982 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:56:24,322 INFO :: Websocket connected
+2023-02-22 10:56:24,323 INFO :: Bitmex connection opened
+2023-02-22 10:56:24,766 INFO :: Websocket connected
+2023-02-22 10:56:24,777 INFO :: Binance connection opened
+2023-02-22 10:56:24,788 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 10:57:34,306 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fa46793ecd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:57:34,306 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:57:34,331 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fa46793ed30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:57:34,332 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 10:58:53,193 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:58:53,938 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 10:58:53,951 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 10:58:54,231 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063533949&signature=0e275d41e6f101a4a13716dea5b1c985f458e7280fc42ca7cc39573fe35d54cf HTTP/1.1" 200 None
+2023-02-22 10:58:54,236 INFO :: Binance Futures Client successfully initialized
+2023-02-22 10:58:54,259 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:58:54,405 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 10:58:54,454 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 10:58:54,563 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 10:58:54,566 INFO :: Bitmex Client successfully initialized
+2023-02-22 10:58:54,943 INFO :: Websocket connected
+2023-02-22 10:58:54,944 INFO :: Bitmex connection opened
+2023-02-22 10:58:55,345 INFO :: Websocket connected
+2023-02-22 10:58:55,345 INFO :: Binance connection opened
+2023-02-22 10:58:55,346 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:05:34,282 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:05:34,568 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:05:34,585 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:05:34,842 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677063934582&signature=e3cab369ff8913c30eeca116b250a04436b50c677b98cab7d1d4eee48494f086 HTTP/1.1" 200 None
+2023-02-22 11:05:34,847 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:05:34,874 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:05:35,012 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:05:35,034 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:05:35,137 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:05:35,140 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:05:35,509 INFO :: Websocket connected
+2023-02-22 11:05:35,509 INFO :: Bitmex connection opened
+2023-02-22 11:05:35,908 INFO :: Websocket connected
+2023-02-22 11:05:35,908 INFO :: Binance connection opened
+2023-02-22 11:05:35,921 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:06:51,193 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:06:51,455 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:06:51,488 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:06:51,741 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677064011465&signature=1ea0758e2d531bd1e61c55da914a6bc9b7e2051ca60d2b6bc180efad8f3267e3 HTTP/1.1" 200 None
+2023-02-22 11:06:51,746 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:06:51,750 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:06:51,898 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:06:51,951 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:06:52,065 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:06:52,069 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:06:52,424 INFO :: Websocket connected
+2023-02-22 11:06:52,424 INFO :: Bitmex connection opened
+2023-02-22 11:06:52,909 INFO :: Websocket connected
+2023-02-22 11:06:52,909 INFO :: Binance connection opened
+2023-02-22 11:06:52,910 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:07:15,475 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:07:16,161 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:07:16,175 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:07:17,869 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:07:18,226 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:07:18,241 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:07:18,534 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677064038237&signature=2d25f9630a2b2614f31b175121eccaa0b505f615b9ae92a82ec00f179f0fa982 HTTP/1.1" 200 None
+2023-02-22 11:07:18,539 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:07:18,546 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:07:18,678 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:07:18,708 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:07:18,786 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:07:18,790 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:07:19,176 INFO :: Websocket connected
+2023-02-22 11:07:19,176 INFO :: Bitmex connection opened
+2023-02-22 11:07:19,967 INFO :: Websocket connected
+2023-02-22 11:07:19,967 INFO :: Binance connection opened
+2023-02-22 11:07:19,968 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:07:27,852 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fb7dc83fcd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:07:27,852 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:07:27,874 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fb7dc83fd30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:07:27,874 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:17:11,379 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:17:12,094 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:17:12,112 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:17:12,780 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677064632107&signature=3894b923d630bc5d5c0baa546968319b842c3440b48ed6cb14895be36c9c3577 HTTP/1.1" 200 None
+2023-02-22 11:17:12,784 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:17:12,804 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:17:12,946 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:17:12,995 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:17:13,207 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:17:13,210 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:17:13,645 INFO :: Websocket connected
+2023-02-22 11:17:13,646 INFO :: Bitmex connection opened
+2023-02-22 11:17:13,943 INFO :: Websocket connected
+2023-02-22 11:17:13,944 INFO :: Binance connection opened
+2023-02-22 11:17:14,033 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:17:25,662 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7f7f3dff8cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:17:25,664 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:17:25,683 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7f7f3dff8d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:17:25,683 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:03,177 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:18:03,448 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:18:03,461 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:18:03,707 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677064683458&signature=94b9dfadae60b267a853149602518381fa87fcb987161abb3942fe3025b0646b HTTP/1.1" 200 None
+2023-02-22 11:18:03,711 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:18:03,715 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:18:03,817 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:18:03,850 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:18:03,940 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:18:03,943 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:18:04,303 INFO :: Websocket connected
+2023-02-22 11:18:04,303 INFO :: Bitmex connection opened
+2023-02-22 11:18:04,908 INFO :: Websocket connected
+2023-02-22 11:18:04,909 INFO :: Binance connection opened
+2023-02-22 11:18:04,909 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:18:11,972 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fa9cf801cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:11,972 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:12,214 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fa9cf801d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:12,215 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:47,080 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:18:47,891 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:18:47,906 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:18:48,577 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677064727904&signature=4b5bd6c9db0c51dc41e6dcdaced8c01991f6ba44219c8611883c86e21cf8e838 HTTP/1.1" 200 None
+2023-02-22 11:18:48,580 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:18:48,596 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:18:48,727 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:18:48,787 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:18:48,906 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:18:48,910 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:18:49,223 INFO :: Websocket connected
+2023-02-22 11:18:49,223 INFO :: Bitmex connection opened
+2023-02-22 11:18:49,693 INFO :: Websocket connected
+2023-02-22 11:18:49,693 INFO :: Binance connection opened
+2023-02-22 11:18:49,721 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:18:54,136 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fa591800cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:54,136 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:54,158 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fa591800d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:18:54,159 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:20:38,219 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:20:38,921 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:20:38,935 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:20:39,186 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677064838932&signature=f14a337d3f43327be0ceeafe6f0cd4245298ead040bd2bd36d89a332835e8da6 HTTP/1.1" 200 None
+2023-02-22 11:20:39,190 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:20:39,212 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:20:39,368 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:20:39,404 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:20:39,483 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:20:39,487 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:20:39,887 INFO :: Websocket connected
+2023-02-22 11:20:39,887 INFO :: Bitmex connection opened
+2023-02-22 11:20:40,361 INFO :: Websocket connected
+2023-02-22 11:20:40,361 INFO :: Binance connection opened
+2023-02-22 11:20:40,366 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:20:46,063 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7ff0cf901cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:20:46,064 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:20:46,088 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7ff0cf901d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:20:46,088 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:29:03,903 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:29:04,650 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:29:04,677 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:29:04,948 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677065344672&signature=5756b34231d6647896e2eb816708f18d957d89caca2ba3fc05fd35ee2de25ee5 HTTP/1.1" 200 None
+2023-02-22 11:29:04,952 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:29:04,977 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:29:05,096 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:29:05,130 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:29:05,256 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:29:05,259 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:29:05,624 INFO :: Websocket connected
+2023-02-22 11:29:05,626 INFO :: Bitmex connection opened
+2023-02-22 11:29:06,034 INFO :: Websocket connected
+2023-02-22 11:29:06,034 INFO :: Binance connection opened
+2023-02-22 11:29:06,036 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:31:41,396 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:31:41,666 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:31:41,679 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:31:41,936 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677065501676&signature=6aa6011aeaac59fb9cf482cd3ef3957ae0de848226e4dbf17f7d8eeac89273c2 HTTP/1.1" 200 None
+2023-02-22 11:31:41,948 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:31:41,967 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:31:42,091 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:31:42,130 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:31:42,243 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:31:42,246 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:31:42,598 INFO :: Websocket connected
+2023-02-22 11:31:42,598 INFO :: Bitmex connection opened
+2023-02-22 11:31:42,951 INFO :: Websocket connected
+2023-02-22 11:31:42,970 INFO :: Binance connection opened
+2023-02-22 11:31:42,978 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:34:23,960 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:34:24,716 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:34:24,729 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:34:25,401 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677065664726&signature=9127157c6e532891dc9f73d47dfcde6469efa1898ea633ba90103464ab366eaf HTTP/1.1" 200 None
+2023-02-22 11:34:25,405 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:34:25,427 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:34:25,560 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:34:25,596 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:34:25,712 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:34:25,715 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:34:26,108 INFO :: Websocket connected
+2023-02-22 11:34:26,109 INFO :: Bitmex connection opened
+2023-02-22 11:34:26,458 INFO :: Websocket connected
+2023-02-22 11:34:26,458 INFO :: Binance connection opened
+2023-02-22 11:34:26,464 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:38:17,278 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7f942f964cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:38:17,280 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:38:17,294 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7f942f964d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:38:17,295 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:38:23,523 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:38:23,829 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:38:23,847 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:38:24,104 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677065903843&signature=c21104bfcaac04d9aee8e19213fd3300cf4e07cac8544feae6b8961e79a60b59 HTTP/1.1" 200 None
+2023-02-22 11:38:24,108 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:38:24,133 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:38:24,258 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:38:24,291 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:38:24,447 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:38:24,451 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:38:24,814 INFO :: Websocket connected
+2023-02-22 11:38:24,814 INFO :: Bitmex connection opened
+2023-02-22 11:38:25,160 INFO :: Websocket connected
+2023-02-22 11:38:25,171 INFO :: Binance connection opened
+2023-02-22 11:38:25,173 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:42:20,290 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:42:20,986 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:42:20,999 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:42:21,246 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066140996&signature=4dbbff81fac4f12ff659b6531201c818085ce7d18483fb2cfac9fb4c75b0c992 HTTP/1.1" 200 None
+2023-02-22 11:42:21,250 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:42:21,270 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:42:21,403 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:42:21,435 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:42:21,543 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:42:21,547 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:42:21,939 INFO :: Websocket connected
+2023-02-22 11:42:21,939 INFO :: Bitmex connection opened
+2023-02-22 11:42:22,342 INFO :: Websocket connected
+2023-02-22 11:42:22,347 INFO :: Binance connection opened
+2023-02-22 11:42:22,357 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:42:49,313 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:42:49,981 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:42:49,992 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:42:50,656 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066169990&signature=9a566a412faf5c41f7a0ea5471aaf7c16082576ea2320e7b7ee6ae222cd8a1ae HTTP/1.1" 200 None
+2023-02-22 11:42:50,661 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:42:50,664 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:42:50,809 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:42:50,844 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:42:50,960 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:42:50,964 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:42:51,272 INFO :: Websocket connected
+2023-02-22 11:42:51,273 INFO :: Bitmex connection opened
+2023-02-22 11:42:51,722 INFO :: Websocket connected
+2023-02-22 11:42:51,722 INFO :: Binance connection opened
+2023-02-22 11:42:51,732 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:43:54,460 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:43:54,728 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:43:54,745 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:43:55,417 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066234742&signature=5d8fe37e1f3da22677f64adb8cc4b1828d6056ecf80b07a91f8a2803400ef54d HTTP/1.1" 200 None
+2023-02-22 11:43:55,422 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:43:55,448 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:43:55,547 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:43:55,586 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:43:55,666 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:43:55,670 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:43:56,028 INFO :: Websocket connected
+2023-02-22 11:43:56,028 INFO :: Bitmex connection opened
+2023-02-22 11:43:56,685 INFO :: Websocket connected
+2023-02-22 11:43:56,685 INFO :: Binance connection opened
+2023-02-22 11:43:56,685 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:46:17,334 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:46:17,632 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:46:17,644 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:46:17,896 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066377641&signature=8de9f4806d7feb7df914147210722f705db91affa020603c123224f228a8f174 HTTP/1.1" 200 None
+2023-02-22 11:46:17,900 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:46:17,926 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:46:18,056 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:46:18,086 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:46:18,252 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:46:18,264 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:46:18,631 INFO :: Websocket connected
+2023-02-22 11:46:18,631 INFO :: Bitmex connection opened
+2023-02-22 11:46:18,992 INFO :: Websocket connected
+2023-02-22 11:46:18,993 INFO :: Binance connection opened
+2023-02-22 11:46:19,004 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:46:40,597 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:46:40,863 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:46:40,875 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:46:41,183 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066400872&signature=4610afd5f4004310025c3e854adc7cf48833abeb0c3044455599da4ecf1a7187 HTTP/1.1" 200 None
+2023-02-22 11:46:41,189 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:46:41,193 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:46:41,337 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:46:41,373 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:46:41,496 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:46:41,500 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:46:41,799 INFO :: Websocket connected
+2023-02-22 11:46:41,800 INFO :: Bitmex connection opened
+2023-02-22 11:46:42,249 INFO :: Websocket connected
+2023-02-22 11:46:42,250 INFO :: Binance connection opened
+2023-02-22 11:46:42,250 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:46:52,441 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fcef5840cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:46:52,442 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:46:52,462 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fcef5840d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:46:52,463 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:47:03,535 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:47:03,794 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:47:03,807 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:47:04,477 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066423804&signature=53d432a4b944ac77a90cd96ab499fe558c4ac0e1187f950e0cb6009eb8e6ba10 HTTP/1.1" 200 None
+2023-02-22 11:47:04,482 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:47:04,486 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:47:05,555 INFO :: Websocket connected
+2023-02-22 11:47:05,555 INFO :: Binance connection opened
+2023-02-22 11:47:05,556 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:47:14,632 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:47:15,385 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:47:15,396 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:47:15,691 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066435394&signature=2ad6980f1e7b1ca3892892d64b6a756409c5e5e7b01ddbd2d3ce27cd4019f3b9 HTTP/1.1" 200 None
+2023-02-22 11:47:15,695 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:47:15,698 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:47:15,840 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:47:15,876 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:47:15,987 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:47:15,989 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:47:16,315 INFO :: Websocket connected
+2023-02-22 11:47:16,315 INFO :: Bitmex connection opened
+2023-02-22 11:47:16,745 INFO :: Websocket connected
+2023-02-22 11:47:16,745 INFO :: Binance connection opened
+2023-02-22 11:47:16,746 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:47:24,243 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:47:24,496 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:47:24,513 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:47:24,805 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066444507&signature=39b3b423d4fa23d90b7357f3637d77e3976468e388b904c991b12aba1f2dbf46 HTTP/1.1" 200 None
+2023-02-22 11:47:24,810 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:47:24,814 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:47:24,939 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:47:24,979 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:47:25,053 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:47:25,058 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:47:25,367 INFO :: Websocket connected
+2023-02-22 11:47:25,367 INFO :: Bitmex connection opened
+2023-02-22 11:47:25,982 INFO :: Websocket connected
+2023-02-22 11:47:25,982 INFO :: Binance connection opened
+2023-02-22 11:47:25,984 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:47:33,201 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7f931f964cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:47:33,202 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:47:33,224 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7f931f964d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:47:33,225 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:48:22,695 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:48:22,973 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:48:22,990 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:48:23,655 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066502986&signature=4878523036e2a3d9da39ff2204d924c1a8323cb659966d872a88960ccff126a6 HTTP/1.1" 200 None
+2023-02-22 11:48:23,659 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:48:23,686 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:48:23,815 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:48:23,858 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:48:23,983 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:48:23,986 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:48:24,300 INFO :: Websocket connected
+2023-02-22 11:48:24,301 INFO :: Bitmex connection opened
+2023-02-22 11:48:24,856 INFO :: Websocket connected
+2023-02-22 11:48:24,856 INFO :: Binance connection opened
+2023-02-22 11:48:24,856 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:48:40,731 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:48:41,402 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:48:41,417 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:48:41,706 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066521414&signature=0f4d8a48850a8fc1093a01da80a2b3f06c20fc33af729ed0ff09ac126d72ff1e HTTP/1.1" 200 None
+2023-02-22 11:48:41,711 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:48:41,715 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:48:41,805 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:48:41,830 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:48:41,974 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:48:41,976 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:48:42,287 INFO :: Websocket connected
+2023-02-22 11:48:42,287 INFO :: Bitmex connection opened
+2023-02-22 11:48:42,784 INFO :: Websocket connected
+2023-02-22 11:48:42,784 INFO :: Binance connection opened
+2023-02-22 11:48:42,785 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:48:48,875 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7f7e7e164cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:48:48,876 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:48:48,897 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7f7e7e164d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:48:48,898 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:54:27,797 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:54:28,095 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:54:28,108 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:54:28,354 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066868105&signature=9bb3a6e8a9ae389510067b834f8570dc6631e6d3d3e167cafa73b26474005996 HTTP/1.1" 200 None
+2023-02-22 11:54:28,359 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:54:28,556 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:54:28,697 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:54:28,727 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:54:28,833 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:54:28,837 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:54:29,287 INFO :: Websocket connected
+2023-02-22 11:54:29,287 INFO :: Bitmex connection opened
+2023-02-22 11:54:29,665 INFO :: Websocket connected
+2023-02-22 11:54:29,671 INFO :: Binance connection opened
+2023-02-22 11:54:29,684 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:55:11,825 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:55:12,098 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:55:12,114 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:55:12,363 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677066912111&signature=66417ca25bfb81b0441afed06e69d9f5dff56a6d2a0919c38764fe3b180d58be HTTP/1.1" 200 None
+2023-02-22 11:55:12,368 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:55:12,370 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:55:12,497 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:55:12,525 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:55:12,639 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:55:12,643 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:55:12,991 INFO :: Websocket connected
+2023-02-22 11:55:12,991 INFO :: Bitmex connection opened
+2023-02-22 11:55:13,400 INFO :: Websocket connected
+2023-02-22 11:55:13,403 INFO :: Binance connection opened
+2023-02-22 11:55:13,403 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:57:13,219 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:57:13,530 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:57:13,543 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:57:14,219 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067033539&signature=8743ce89c31995147560bca21b97d1dc92f30f6934a98ae221edb572b2da01b7 HTTP/1.1" 200 None
+2023-02-22 11:57:14,224 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:57:14,273 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:57:14,401 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:57:14,435 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:57:14,542 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:57:14,545 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:57:15,001 INFO :: Websocket connected
+2023-02-22 11:57:15,001 INFO :: Bitmex connection opened
+2023-02-22 11:57:15,271 INFO :: Websocket connected
+2023-02-22 11:57:15,277 INFO :: Binance connection opened
+2023-02-22 11:57:15,308 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:57:34,004 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:57:34,285 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:57:34,303 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:57:34,562 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067054299&signature=6c7de9930966cc9d7d7695c0fbe50916e40ef4518544af136f8cc57680bd5ef2 HTTP/1.1" 200 None
+2023-02-22 11:57:34,566 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:57:34,570 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:57:34,696 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:57:34,722 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:57:34,832 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:57:34,835 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:57:35,125 INFO :: Websocket connected
+2023-02-22 11:57:35,125 INFO :: Bitmex connection opened
+2023-02-22 11:57:35,618 INFO :: Websocket connected
+2023-02-22 11:57:35,619 INFO :: Binance connection opened
+2023-02-22 11:57:35,620 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:57:41,866 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fac2f164ca0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:57:41,866 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fac2f164d00>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:57:41,866 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:57:41,868 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:57:53,057 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:57:53,315 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:57:53,338 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:57:53,594 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067073334&signature=6046c17c2ef454f775f818f03a780f2e0863cdaebe7727b8068371ba814a9487 HTTP/1.1" 200 None
+2023-02-22 11:57:53,599 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:57:53,602 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:57:53,725 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:57:53,764 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:57:53,827 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:57:53,833 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:57:54,140 INFO :: Websocket connected
+2023-02-22 11:57:54,141 INFO :: Bitmex connection opened
+2023-02-22 11:57:54,790 INFO :: Websocket connected
+2023-02-22 11:57:54,790 INFO :: Binance connection opened
+2023-02-22 11:57:54,790 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:58:05,723 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fc89f141ca0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:05,723 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fc89f141d00>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:05,723 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:05,725 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:44,449 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:58:45,252 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 11:58:45,268 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 11:58:45,528 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067125265&signature=fb6cb8858f4b0c6d26d3600f1f9f94f239a408ef5dbbb1cb95272dd73603618e HTTP/1.1" 200 None
+2023-02-22 11:58:45,533 INFO :: Binance Futures Client successfully initialized
+2023-02-22 11:58:45,550 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:58:45,633 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 11:58:45,655 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 11:58:45,768 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 11:58:45,771 INFO :: Bitmex Client successfully initialized
+2023-02-22 11:58:46,152 INFO :: Websocket connected
+2023-02-22 11:58:46,153 INFO :: Bitmex connection opened
+2023-02-22 11:58:46,886 INFO :: Websocket connected
+2023-02-22 11:58:46,887 INFO :: Binance connection opened
+2023-02-22 11:58:46,887 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 11:58:58,662 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fcc08164ca0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:58,663 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:58,685 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fcc08164d00>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 11:58:58,685 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:01:05,362 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:01:06,280 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:01:06,295 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:01:06,561 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067266292&signature=cae9e58ab486c7f37b25087680f778b682e76cb63ec6734c509a86c1d542a9de HTTP/1.1" 200 None
+2023-02-22 12:01:06,565 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:01:06,707 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:01:06,856 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:01:06,896 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:01:07,019 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:01:07,023 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:01:07,421 INFO :: Websocket connected
+2023-02-22 12:01:07,421 INFO :: Bitmex connection opened
+2023-02-22 12:01:07,658 INFO :: Websocket connected
+2023-02-22 12:01:07,664 INFO :: Binance connection opened
+2023-02-22 12:01:07,675 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:01:33,693 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:01:33,960 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:01:33,972 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:01:34,222 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067293970&signature=6ce7a0f3d1e33e94018a59ea14c57fbd48bea21366cdaad07db29731b2455c44 HTTP/1.1" 200 None
+2023-02-22 12:01:34,227 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:01:34,230 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:01:34,358 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:01:34,390 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:01:34,511 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:01:34,515 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:01:34,914 INFO :: Websocket connected
+2023-02-22 12:01:34,914 INFO :: Bitmex connection opened
+2023-02-22 12:01:35,340 INFO :: Websocket connected
+2023-02-22 12:01:35,340 INFO :: Binance connection opened
+2023-02-22 12:01:35,370 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:01:39,958 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7febff164ca0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:01:39,959 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:01:39,976 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7febff164d00>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:01:39,977 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:02:02,653 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:02:02,906 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:02:02,921 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:02:03,180 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067322917&signature=c085e1fbc81e156deabda09e2db15f17e1acf188e86e1875861f15cde7724821 HTTP/1.1" 200 None
+2023-02-22 12:02:03,184 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:02:03,187 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:02:03,287 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:02:03,320 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:02:03,402 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:02:03,408 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:02:03,715 INFO :: Websocket connected
+2023-02-22 12:02:03,715 INFO :: Bitmex connection opened
+2023-02-22 12:02:04,374 INFO :: Websocket connected
+2023-02-22 12:02:04,375 INFO :: Binance connection opened
+2023-02-22 12:02:04,375 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:03:04,045 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:03:04,421 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:03:04,434 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:03:04,683 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067384431&signature=f6722fc3e2619899f7cdfb4f18739d80714745eae7019ccc0a771f0e7216ac90 HTTP/1.1" 200 None
+2023-02-22 12:03:04,688 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:03:04,704 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:03:04,844 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:03:04,877 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:03:04,992 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:03:05,001 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:03:05,384 INFO :: Websocket connected
+2023-02-22 12:03:05,384 INFO :: Bitmex connection opened
+2023-02-22 12:03:05,842 INFO :: Websocket connected
+2023-02-22 12:03:05,843 INFO :: Binance connection opened
+2023-02-22 12:03:05,855 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:03:27,917 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:03:28,176 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:03:28,193 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:03:28,443 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067408189&signature=c85b37974a7c91bb72cba5a65a2b400cf21b4841b9831dab01c0b5d713a77809 HTTP/1.1" 200 None
+2023-02-22 12:03:28,448 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:03:28,451 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:03:28,624 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:03:28,659 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:03:28,783 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:03:28,787 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:03:29,145 INFO :: Websocket connected
+2023-02-22 12:03:29,145 INFO :: Bitmex connection opened
+2023-02-22 12:03:29,555 INFO :: Websocket connected
+2023-02-22 12:03:29,556 INFO :: Binance connection opened
+2023-02-22 12:03:29,567 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:04:17,550 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:04:17,809 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:04:17,822 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:04:18,077 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067457819&signature=5bb716c838daf4b3af205d7ce33d709597a4f5a5ded142c6b6042e3c67373e21 HTTP/1.1" 200 None
+2023-02-22 12:04:18,082 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:04:18,085 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:04:18,230 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:04:18,276 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:04:18,362 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:04:18,365 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:04:18,730 INFO :: Websocket connected
+2023-02-22 12:04:18,730 INFO :: Bitmex connection opened
+2023-02-22 12:04:19,134 INFO :: Websocket connected
+2023-02-22 12:04:19,134 INFO :: Binance connection opened
+2023-02-22 12:04:19,136 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:04:31,635 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:04:31,895 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:04:31,906 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:04:32,154 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067471904&signature=83a27ca04c0c9ba291ea2582447b263dcf1d1f392bd54c2865d81dabd5b46b9a HTTP/1.1" 200 None
+2023-02-22 12:04:32,159 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:04:32,179 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:04:32,320 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:04:32,351 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:04:32,482 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:04:32,485 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:04:32,823 INFO :: Websocket connected
+2023-02-22 12:04:32,823 INFO :: Bitmex connection opened
+2023-02-22 12:04:33,247 INFO :: Websocket connected
+2023-02-22 12:04:33,258 INFO :: Binance connection opened
+2023-02-22 12:04:33,275 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:06:30,932 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:06:31,189 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:06:31,205 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:06:31,467 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067591201&signature=d41802eaf81ffc6c0b2d8000f93a3c6e15ae67a54fcb61f3454e13164157ef2f HTTP/1.1" 200 None
+2023-02-22 12:06:31,497 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:06:31,517 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:06:31,653 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:06:31,690 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:06:31,777 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:06:31,780 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:06:32,130 INFO :: Websocket connected
+2023-02-22 12:06:32,130 INFO :: Bitmex connection opened
+2023-02-22 12:06:32,552 INFO :: Websocket connected
+2023-02-22 12:06:32,559 INFO :: Binance connection opened
+2023-02-22 12:06:32,565 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:10:26,379 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:10:26,672 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:10:26,685 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:10:26,935 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067826683&signature=bf5d86b5b295ed605d7408fec4dbdfd0221a183483105aa3116f05e301b925c0 HTTP/1.1" 200 None
+2023-02-22 12:10:26,939 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:10:26,959 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:10:27,087 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:10:27,132 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:10:27,240 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:10:27,243 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:10:27,602 INFO :: Websocket connected
+2023-02-22 12:10:27,602 INFO :: Bitmex connection opened
+2023-02-22 12:10:28,026 INFO :: Websocket connected
+2023-02-22 12:10:28,026 INFO :: Binance connection opened
+2023-02-22 12:10:28,042 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:11:26,958 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:11:27,220 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:11:27,237 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:11:27,488 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067887233&signature=fce105a778a4650bf64f2796ef7c12540e4d9cfc20910ca8755211e96c0c7d04 HTTP/1.1" 200 None
+2023-02-22 12:11:27,492 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:11:27,495 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:11:27,645 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:11:27,676 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:11:27,792 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:11:27,795 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:11:28,167 INFO :: Websocket connected
+2023-02-22 12:11:28,167 INFO :: Bitmex connection opened
+2023-02-22 12:11:28,648 INFO :: Websocket connected
+2023-02-22 12:11:28,649 INFO :: Binance connection opened
+2023-02-22 12:11:28,649 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:11:40,636 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fc59d163cd0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:11:40,638 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:11:40,656 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fc59d163d30>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:11:40,656 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:12:15,129 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:12:15,848 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:12:15,859 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:12:16,113 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677067935857&signature=132c8222afcc4df93996a2c4bd9bd653b2b5614ed8322f689526cc4868ceb0da HTTP/1.1" 200 None
+2023-02-22 12:12:16,118 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:12:16,135 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:12:16,224 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:12:16,253 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:12:16,376 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:12:16,379 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:12:16,732 INFO :: Websocket connected
+2023-02-22 12:12:16,733 INFO :: Bitmex connection opened
+2023-02-22 12:12:17,501 INFO :: Websocket connected
+2023-02-22 12:12:17,501 INFO :: Binance connection opened
+2023-02-22 12:12:17,501 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:16:56,408 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:16:56,693 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:16:56,705 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:16:57,054 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677068216703&signature=1e0eac521f7f31de48a2e38ab2c65dfcc13a7635fa4a592842f25b00f30b5966 HTTP/1.1" 200 None
+2023-02-22 12:16:57,061 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:16:57,085 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:16:57,215 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:16:57,247 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:16:57,366 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:16:57,370 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:16:57,776 INFO :: Websocket connected
+2023-02-22 12:16:57,776 INFO :: Bitmex connection opened
+2023-02-22 12:16:58,065 INFO :: Websocket connected
+2023-02-22 12:16:58,065 INFO :: Binance connection opened
+2023-02-22 12:16:58,066 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:18:16,014 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:18:16,727 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:18:16,738 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:18:17,437 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677068296735&signature=5bb0051f986b79ef9dad1be286be5be82a444e3b4174790d91086201efca3dc5 HTTP/1.1" 200 None
+2023-02-22 12:18:17,442 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:18:17,465 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:18:17,605 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:18:17,637 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:18:17,759 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:18:17,762 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:18:18,129 INFO :: Websocket connected
+2023-02-22 12:18:18,129 INFO :: Bitmex connection opened
+2023-02-22 12:18:18,458 INFO :: Websocket connected
+2023-02-22 12:18:18,458 INFO :: Binance connection opened
+2023-02-22 12:18:18,463 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:20:23,669 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:20:23,940 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-02-22 12:20:23,951 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-02-22 12:20:24,201 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1677068423948&signature=44d9916725fd855de4fcffe52c84d8db52224cb3858d8be7e092f254b2e50e4d HTTP/1.1" 200 None
+2023-02-22 12:20:24,205 INFO :: Binance Futures Client successfully initialized
+2023-02-22 12:20:24,223 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:20:24,355 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-02-22 12:20:24,396 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-02-22 12:20:24,504 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2023-02-22 12:20:24,507 INFO :: Bitmex Client successfully initialized
+2023-02-22 12:20:24,860 INFO :: Websocket connected
+2023-02-22 12:20:24,860 INFO :: Bitmex connection opened
+2023-02-22 12:20:25,310 INFO :: Websocket connected
+2023-02-22 12:20:25,318 INFO :: Binance connection opened
+2023-02-22 12:20:25,334 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-02-22 12:20:43,357 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x7fdb36164ca0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:20:43,357 ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:20:43,375 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x7fdb3616e1f0>>: _on_close() takes 2 positional arguments but 4 were given
+2023-02-22 12:20:43,376 ERROR :: Bitmex connection error: _on_close() takes 2 positional arguments but 4 were given

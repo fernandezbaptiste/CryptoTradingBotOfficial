@@ -1,9 +1,6 @@
-Learnings Dictionary from bot:
+🏋️‍LEARNINGS
 
-_before_variable -> means its a private variable
-
-ARGS & KWARGS
-
+-> ARGS
 Amazing explantion here: https://www.programiz.com/python-programming/args-and-kwargs
 
 - *args and **kwargs allow you to pass multiple arguments or keyword arguments to a function.
@@ -20,19 +17,18 @@ def info(*args):
 info("Name", 3, 7) -> returns: Name 3 7
 
 
+-> KWARGS
 # kwargs -> when calling the function if you capitalize the arguments like Name + give it a value
 # it transform it into a dictionary
 
 def test(**kwargs):
     print(type(kwargs))
     print(kwargs)
-
 test(Name="Bap", Age=6) -> returns <class 'dict'>
                                     {'Name': 'Bap', 'Age': 6}
 
 
-ENUMERATE()
-
+-> ENUMERATE()
 enumerate([1,2,3]) -> returns enumerate object number
 but when used in a loop, enumerate returns 2 things: the index of the first value and first value itself
 
@@ -49,11 +45,50 @@ for x, y in enumerate(list1):
     bye
 
 
-ITEMS()
-
+-> ITEMS()
 transform the key-value pairs of a dictionary into tuples in a list.
 
 car = {"brand": "Ford"}
 print(car.items())
 # returns dict_items([('brand', 'Ford')])
 
+
+-> UNDERSCORE
+In Python, placing an underscore (_) at the beginning of a
+variable name is a convention that signals to other developers that the variable is intended for internal use only and should not be
+accessed or modified directly from outside of the class, function, or module where it is defined.
+In Python, placing an underscore (_) at the beginning of a
+function name is a convention that signals to other developers that the
+function is intended for internal use only, and should not be used outside of the module where it is defined.
+
+
+
+-> CREATE TKINTER
+import tkinter as tk
+app = tk.Tk()
+app.geometry("400x200")
+entryExample = tk.Entry(app,
+                        width=5)
+entryExample.pack(side=tk.LEFT,
+                  padx=10)
+app.mainloop()
+# Import the required library
+from tkinter import *
+from tkinter import ttk
+from tkinter import messagebox
+# Create an instance of tkinter frame
+win=Tk()
+# Set the geometry
+win.geometry("700x350")
+# Add a Scrollbar(horizontal)
+h=Scrollbar(win, orient='horizontal')
+h.pack(side=BOTTOM, fill='x')
+# Add a text widget
+text=Text(win, font=("Calibri, 16"), wrap=NONE, xscrollcommand=h.set)
+text.pack()
+# Add some text in the text widget
+for i in range(5):
+   text.insert(END, "Welcome to Tutorialspoint...")
+# Attach the scrollbar with the text widget
+h.config(command=text.xview)
+win.mainloop()
