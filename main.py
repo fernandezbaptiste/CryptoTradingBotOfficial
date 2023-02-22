@@ -5,7 +5,7 @@ from connectors.bitmex import BitmexClient
 import pprint
 from interface.root_component import Root
 # hi
-
+# hiiii
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 # streamhandler is non persistent
